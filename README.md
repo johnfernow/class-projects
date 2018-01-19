@@ -1,2 +1,2 @@
 # Projects by John Fernow
-Notable Projects I've Created
+Various class projects I've had
