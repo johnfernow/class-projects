@@ -1,0 +1,4435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response>
+  <paging>
+    <page>8</page>
+    <total>1293408</total>
+    <page_size>100</page_size>
+    <pages>12935</pages>
+  </paging>
+  <loans type="list">
+    <loan>
+      <id>1321372</id>
+      <name>Elena</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559287</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Retail</activity>
+      <sector>Retail</sector>
+      <use>to purchase additional sacks of rice to sell.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Canlaon, Negros Oriental</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T15:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:30:06Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321373</id>
+      <name>Gloria</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>50</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559290</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Pigs</activity>
+      <sector>Agriculture</sector>
+      <use>to buy feeds and other supplies to raise her pigs.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Canlaon, Negros Oriental</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T15:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:30:06Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>2</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Animals</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321374</id>
+      <name>Annie</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>350</funded_amount>
+      <image>
+        <id>2559289</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Production/Sales</activity>
+      <sector>Food</sector>
+      <use>to buy ingredients for her food production business.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Liloan, Cebu</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T15:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:30:06Z</planned_expiration_date>
+      <loan_amount>350</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321413</id>
+      <name>Henilda</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>150</funded_amount>
+      <image>
+        <id>2559328</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Liquor Store / Off-License</activity>
+      <sector>Food</sector>
+      <use>to buy additional gallons of coconut wine to sell.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Palo, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T15:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:30:06Z</planned_expiration_date>
+      <loan_amount>150</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321453</id>
+      <name>Branch Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559391</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Market</activity>
+      <sector>Food</sector>
+      <use>to pay for additional gallons of palm oil to sell.</use>
+      <location>
+        <country_code>SL</country_code>
+        <country>Sierra Leone</country>
+        <town>Freetown East</town>
+        <geo>
+          <level>town</level>
+          <pairs>8.5 -11.5</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>148</partner_id>
+      <posted_date>2017-06-25T15:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:30:06Z</planned_expiration_date>
+      <loan_amount>550</loan_amount>
+      <borrower_count>4</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321459</id>
+      <name>Haykanush</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559399</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Higher education costs</activity>
+      <sector>Education</sector>
+      <themes type="list">
+        <theme>Higher Education</theme>
+      </themes>
+      <use>to buy a computer and professional literature for developing her professional skills and also to furnish her working-room comfortably.</use>
+      <location>
+        <country_code>AM</country_code>
+        <country>Armenia</country>
+        <town>Sevan</town>
+        <geo>
+          <level>town</level>
+          <pairs>40 45</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>146</partner_id>
+      <posted_date>2017-06-25T15:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:30:06Z</planned_expiration_date>
+      <loan_amount>1525</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Widowed</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+        <tag>
+          <name>#Schooling</name>
+        </tag>
+        <tag>
+          <name>#Biz Durable Asset</name>
+        </tag>
+        <tag>
+          <name>#Technology</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321414</id>
+      <name>Jeffrey</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>125</funded_amount>
+      <image>
+        <id>2559253</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Personal Housing Expenses</activity>
+      <sector>Housing</sector>
+      <themes type="list">
+        <theme>Water and Sanitation</theme>
+      </themes>
+      <use>to buy materials so that his home may be connected to a water supply.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Baybay, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>125</partner_id>
+      <posted_date>2017-06-25T15:30:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:30:03Z</planned_expiration_date>
+      <loan_amount>125</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321447</id>
+      <name>Jackline</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559378</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Motorcycle Transport</activity>
+      <sector>Transportation</sector>
+      <use>to repair the tuk tuk and clear school fees.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>malindi</town>
+        <geo>
+          <level>town</level>
+          <pairs>-3.216667 40.116667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>138</partner_id>
+      <posted_date>2017-06-25T15:30:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:30:03Z</planned_expiration_date>
+      <loan_amount>600</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+        <tag>
+          <name>#Repair Renew Replace</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321454</id>
+      <name>Grace</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>150</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559392</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Grocery Store</activity>
+      <sector>Food</sector>
+      <use>to buy more stock of sodas, bread, flour, and other items.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Nairobi Central</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>138</partner_id>
+      <posted_date>2017-06-25T15:30:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:30:03Z</planned_expiration_date>
+      <loan_amount>500</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>6</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1316504</id>
+      <name>Zoéline</name>
+      <description>
+        <languages type="list">
+          <language>fr</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>125</funded_amount>
+      <image>
+        <id>2552590</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Pigs</activity>
+      <sector>Agriculture</sector>
+      <use>to purchase a piglet and feed for it.</use>
+      <location>
+        <country_code>MG</country_code>
+        <country>Madagascar</country>
+        <town>Antsirabe</town>
+        <geo>
+          <level>town</level>
+          <pairs>-20 47</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>359</partner_id>
+      <posted_date>2017-06-25T15:20:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:06Z</planned_expiration_date>
+      <loan_amount>125</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Animals</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326988</id>
+      <name>Delmy Raquel</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2567177</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>General Store</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Vulnerable Groups</theme>
+      </themes>
+      <use>to purchase compost, and other basic food basket products to sell in her store.</use>
+      <location>
+        <country_code>SV</country_code>
+        <country>El Salvador</country>
+        <town>Gotera</town>
+        <geo>
+          <level>town</level>
+          <pairs>13.833333 -88.916667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>199</partner_id>
+      <posted_date>2017-06-25T15:20:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:05Z</planned_expiration_date>
+      <loan_amount>375</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321451</id>
+      <name>Gertrude</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>200</funded_amount>
+      <image>
+        <id>2559385</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Poultry</activity>
+      <sector>Agriculture</sector>
+      <use>to  purchase poultry feed, chicks and medication.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Voi</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>164</partner_id>
+      <posted_date>2017-06-25T15:20:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:04Z</planned_expiration_date>
+      <loan_amount>200</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>3</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Animals</name>
+        </tag>
+        <tag>
+          <name>#Single Parent</name>
+        </tag>
+        <tag>
+          <name>#Schooling</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326997</id>
+      <name>Santos Reinaldy</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2567198</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Agriculture</activity>
+      <sector>Agriculture</sector>
+      <themes type="list">
+        <theme>Vulnerable Groups</theme>
+      </themes>
+      <use>to buy mulch and fertilizer to protect the "milpa" (corn field) from pests, and to ensure that he will have a good harvest of basic grains.</use>
+      <location>
+        <country_code>SV</country_code>
+        <country>El Salvador</country>
+        <geo>
+          <level>country</level>
+          <pairs>13.833333 -88.916667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>167</partner_id>
+      <posted_date>2017-06-25T15:20:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:04Z</planned_expiration_date>
+      <loan_amount>1600</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Vegan</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+        <tag>
+          <name>#Job Creator</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321431</id>
+      <name>Nilda</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2556355</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Personal Housing Expenses</activity>
+      <sector>Housing</sector>
+      <themes type="list">
+        <theme>Water and Sanitation</theme>
+      </themes>
+      <use>to buy tiles, cement, deformed bar, and other materials needed.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Albuera, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>125</partner_id>
+      <posted_date>2017-06-25T15:20:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:03Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Eco-friendly</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Health and Sanitation</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321440</id>
+      <name>Pablito</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2556361</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Personal Housing Expenses</activity>
+      <sector>Housing</sector>
+      <themes type="list">
+        <theme>Water and Sanitation</theme>
+      </themes>
+      <use>to buy materials such as hollow block, deformed bar, cement, tie wire, tiles, sand, toilet bowl, galvanized iron, lumber and nails.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Mahaplag, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>125</partner_id>
+      <posted_date>2017-06-25T15:20:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:03Z</planned_expiration_date>
+      <loan_amount>325</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Eco-friendly</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+        <tag>
+          <name>#Health and Sanitation</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321442</id>
+      <name>Prudence</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>200</funded_amount>
+      <image>
+        <id>2559365</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Beauty Salon</activity>
+      <sector>Services</sector>
+      <use>to buy beauty products for salon use.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Mombasa</town>
+        <geo>
+          <level>town</level>
+          <pairs>-4.05 39.666667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>138</partner_id>
+      <posted_date>2017-06-25T15:20:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:03Z</planned_expiration_date>
+      <loan_amount>200</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>8</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321445</id>
+      <name>Raymond</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559373</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Grocery Store</activity>
+      <sector>Food</sector>
+      <use>to buy more stock of sugar, rice, flour, soap, cooking oil and other items.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Voi</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>138</partner_id>
+      <posted_date>2017-06-25T15:20:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:03Z</planned_expiration_date>
+      <loan_amount>300</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321449</id>
+      <name>Hellen</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>200</funded_amount>
+      <image>
+        <id>2559185</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Renewable Energy Products</activity>
+      <sector>Retail</sector>
+      <use>to buy more stock of solar lamps.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Bungoma</town>
+        <geo>
+          <level>town</level>
+          <pairs>0.566667 34.566667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>138</partner_id>
+      <posted_date>2017-06-25T15:20:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:03Z</planned_expiration_date>
+      <loan_amount>200</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>6</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>user_favorite</name>
+        </tag>
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Eco-friendly</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Technology</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321452</id>
+      <name>Salome</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>300</funded_amount>
+      <image>
+        <id>2559389</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Tailoring</activity>
+      <sector>Services</sector>
+      <use>to buy stocks of tailoring materials.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Nyahururu</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>138</partner_id>
+      <posted_date>2017-06-25T15:20:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:20:03Z</planned_expiration_date>
+      <loan_amount>300</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>9</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Fabrics</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321439</id>
+      <name>Mwanakombo</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559361</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food</activity>
+      <sector>Food</sector>
+      <use>to purchase cooking fat and bundles of wheat flour, maize flour and tea leaves.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Msambweni</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>164</partner_id>
+      <posted_date>2017-06-25T15:10:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:10:04Z</planned_expiration_date>
+      <loan_amount>500</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326996</id>
+      <name>Nohora Constanza</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>150</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2567189</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Carpentry</activity>
+      <sector>Construction</sector>
+      <use>to buy raw materials, including wood, glue, sealant, paint, and other items.</use>
+      <location>
+        <country_code>CO</country_code>
+        <country>Colombia</country>
+        <town>Mosquera/Cundinamarca</town>
+        <geo>
+          <level>town</level>
+          <pairs>4 -72</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>154</partner_id>
+      <posted_date>2017-06-25T15:10:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:10:03Z</planned_expiration_date>
+      <loan_amount>875</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321425</id>
+      <name>Anastasie</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>600</funded_amount>
+      <image>
+        <id>2559332</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Farming</activity>
+      <sector>Agriculture</sector>
+      <themes type="list">
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to buy more Irish potato seeds to cultivate more  Irish potatoes to sell.</use>
+      <location>
+        <country_code>RW</country_code>
+        <country>Rwanda</country>
+        <geo>
+          <level>country</level>
+          <pairs>-2 30</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>117</partner_id>
+      <posted_date>2017-06-25T15:10:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:10:02Z</planned_expiration_date>
+      <loan_amount>600</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>22</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321430</id>
+      <name>Philemon</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559357</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food</activity>
+      <sector>Food</sector>
+      <use>to  buy more sorghum to make a local soft drink to sell to his community.</use>
+      <location>
+        <country_code>RW</country_code>
+        <country>Rwanda</country>
+        <geo>
+          <level>country</level>
+          <pairs>-2 30</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>117</partner_id>
+      <posted_date>2017-06-25T15:10:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:10:02Z</planned_expiration_date>
+      <loan_amount>1200</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>user_favorite</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326995</id>
+      <name>Herme Nicolas</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2567188</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Agriculture</activity>
+      <sector>Agriculture</sector>
+      <use>to buy fertilizers, compost, and insecticides.</use>
+      <location>
+        <country_code>HN</country_code>
+        <country>Honduras</country>
+        <town>Patuca, Olancho</town>
+        <geo>
+          <level>town</level>
+          <pairs>15 -86.5</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>118</partner_id>
+      <posted_date>2017-06-25T15:10:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:10:02Z</planned_expiration_date>
+      <loan_amount>650</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1316502</id>
+      <name>Sabali-Kadi Group</name>
+      <description>
+        <languages type="list">
+          <language>fr</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>100</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552588</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Retail</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Rural Exclusion</theme>
+        <theme>Underfunded Areas</theme>
+      </themes>
+      <use>to purchase bags of peanuts for resale with the goal of helping her husband to pay the school fees.</use>
+      <location>
+        <country_code>ML</country_code>
+        <country>Mali</country>
+        <town>Samory</town>
+        <geo>
+          <level>town</level>
+          <pairs>17 -4</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>438</partner_id>
+      <posted_date>2017-06-25T15:00:07Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:00:07Z</planned_expiration_date>
+      <loan_amount>2650</loan_amount>
+      <borrower_count>10</borrower_count>
+      <lender_count>4</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326992</id>
+      <name>Digna Elizabeth</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2567181</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Production/Sales</activity>
+      <sector>Food</sector>
+      <use>to buy vegetables, chickens, oil, condiments, meats, etc. to supply inventory for the sale of food.</use>
+      <location>
+        <country_code>SV</country_code>
+        <country>El Salvador</country>
+        <geo>
+          <level>country</level>
+          <pairs>13.833333 -88.916667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>167</partner_id>
+      <posted_date>2017-06-25T15:00:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:00:06Z</planned_expiration_date>
+      <loan_amount>650</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321426</id>
+      <name>Angelica</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>125</funded_amount>
+      <image>
+        <id>2559352</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>General Store</activity>
+      <sector>Retail</sector>
+      <use>to buy grocery items to sell, such as beverages, canned goods and home-care products.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Palo, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T15:00:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:00:05Z</planned_expiration_date>
+      <loan_amount>125</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321438</id>
+      <name>Noela</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559360</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Agriculture</activity>
+      <sector>Agriculture</sector>
+      <themes type="list">
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to buy farm inputs and animal feed.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Eldoret</town>
+        <geo>
+          <level>town</level>
+          <pairs>0.516667 35.283333</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>138</partner_id>
+      <posted_date>2017-06-25T15:00:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:00:02Z</planned_expiration_date>
+      <loan_amount>400</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321427</id>
+      <name>Myrna</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2556349</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Personal Housing Expenses</activity>
+      <sector>Housing</sector>
+      <themes type="list">
+        <theme>Water and Sanitation</theme>
+      </themes>
+      <use>to buy materials such as deformed bar, cement, sand, hollow blocks, tie wire and tiles with the rest  used to pay for labor.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Mahaplag, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>125</partner_id>
+      <posted_date>2017-06-25T15:00:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T15:00:02Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Eco-friendly</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+        <tag>
+          <name>#Health and Sanitation</name>
+        </tag>
+        <tag>
+          <name>#Job Creator</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326989</id>
+      <name>Juan</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>275</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2567178</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Cattle</activity>
+      <sector>Agriculture</sector>
+      <use>to buy cows.</use>
+      <location>
+        <country_code>BO</country_code>
+        <country>Bolivia</country>
+        <town>Palomar</town>
+        <geo>
+          <level>town</level>
+          <pairs>-16.716667 -68</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>48</partner_id>
+      <posted_date>2017-06-25T14:50:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:50:02Z</planned_expiration_date>
+      <loan_amount>1025</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>8</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Animals</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1316493</id>
+      <name>Meriana</name>
+      <description>
+        <languages type="list">
+          <language>fr</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>175</funded_amount>
+      <image>
+        <id>2552575</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Stall</activity>
+      <sector>Food</sector>
+      <use>to purchase a case of milk and a sack of rice.</use>
+      <location>
+        <country_code>HT</country_code>
+        <country>Haiti</country>
+        <town>Croix-des-Bouquets</town>
+        <geo>
+          <level>town</level>
+          <pairs>19 -72.416667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>442</partner_id>
+      <posted_date>2017-06-25T14:40:07Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:07Z</planned_expiration_date>
+      <loan_amount>175</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>2</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>volunteer_pick</name>
+        </tag>
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1316497</id>
+      <name>Ismona</name>
+      <description>
+        <languages type="list">
+          <language>fr</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>125</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552581</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Market</activity>
+      <sector>Food</sector>
+      <use>to increase her stock of merchandise.</use>
+      <location>
+        <country_code>HT</country_code>
+        <country>Haiti</country>
+        <town>Croix-des-Bouquets</town>
+        <geo>
+          <level>town</level>
+          <pairs>19 -72.416667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>442</partner_id>
+      <posted_date>2017-06-25T14:40:07Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:07Z</planned_expiration_date>
+      <loan_amount>500</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321011</id>
+      <name>Khaleel</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>100</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2558083</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Education provider</activity>
+      <sector>Education</sector>
+      <use>to purchase computers for his school.</use>
+      <location>
+        <country_code>PK</country_code>
+        <country>Pakistan</country>
+        <town>Phalia</town>
+        <geo>
+          <level>town</level>
+          <pairs>30 70</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>245</partner_id>
+      <posted_date>2017-06-25T14:40:07Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:07Z</planned_expiration_date>
+      <loan_amount>975</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>4</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Schooling</name>
+        </tag>
+        <tag>
+          <name>#Biz Durable Asset</name>
+        </tag>
+        <tag>
+          <name>#Female Education</name>
+        </tag>
+        <tag>
+          <name>#Technology</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326984</id>
+      <name>Wendy Marina</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>225</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2567170</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Production/Sales</activity>
+      <sector>Food</sector>
+      <use>to buy supplies to sell chicken with bread and hamburgers, and to use the earnings to pay for her children's education as she is a single mother.</use>
+      <location>
+        <country_code>SV</country_code>
+        <country>El Salvador</country>
+        <town>San Miguel</town>
+        <geo>
+          <level>town</level>
+          <pairs>13.833333 -88.916667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>199</partner_id>
+      <posted_date>2017-06-25T14:40:07Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:06Z</planned_expiration_date>
+      <loan_amount>600</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>9</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Single Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321010</id>
+      <name>Ofelia</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>150</funded_amount>
+      <image>
+        <id>2558906</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Furniture Making</activity>
+      <sector>Manufacturing</sector>
+      <use>to buy more materials like wood, nails, varnish and other items needed for her business.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Ibajay, Aklan</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:40:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:06Z</planned_expiration_date>
+      <loan_amount>150</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321012</id>
+      <name>Celina</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>50</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2558909</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Fish Selling</activity>
+      <sector>Food</sector>
+      <use>to buy additional varieties of fish to sell.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Guihulngan, Negros Oriental</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:40:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:06Z</planned_expiration_date>
+      <loan_amount>250</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>2</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321347</id>
+      <name>Jhoannie</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>325</funded_amount>
+      <image>
+        <id>2559254</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Livestock</activity>
+      <sector>Agriculture</sector>
+      <use>to buy vaccine for her cow.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Dumaguete, Negros Oriental</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:40:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:06Z</planned_expiration_date>
+      <loan_amount>325</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>13</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Animals</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321421</id>
+      <name>Jocelyn</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>125</funded_amount>
+      <image>
+        <id>2559344</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Pigs</activity>
+      <sector>Agriculture</sector>
+      <use>to buy feeds, vitamins, and other supplies to raise her livestock.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Palo, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:40:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:06Z</planned_expiration_date>
+      <loan_amount>125</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>3</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Animals</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321424</id>
+      <name>Gina</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>125</funded_amount>
+      <image>
+        <id>2244811</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Manufacturing</activity>
+      <sector>Manufacturing</sector>
+      <use>to buy bamboo sticks and other supplies for her broom-making business.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Palo, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:40:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:06Z</planned_expiration_date>
+      <loan_amount>125</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326986</id>
+      <name>Juan</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>900</funded_amount>
+      <image>
+        <id>2567173</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Furniture Making</activity>
+      <sector>Manufacturing</sector>
+      <use>Juan to buy wood for his business.</use>
+      <location>
+        <country_code>BO</country_code>
+        <country>Bolivia</country>
+        <town>La Paz</town>
+        <geo>
+          <level>town</level>
+          <pairs>-16.5 -68.15</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>48</partner_id>
+      <posted_date>2017-06-25T14:40:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:03Z</planned_expiration_date>
+      <loan_amount>900</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>24</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>user_favorite</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326985</id>
+      <name>Guillermo</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>300</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2012635</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Personal Housing Expenses</activity>
+      <sector>Housing</sector>
+      <use>to repair a room where he lives.</use>
+      <location>
+        <country_code>BO</country_code>
+        <country>Bolivia</country>
+        <town>La Paz</town>
+        <geo>
+          <level>town</level>
+          <pairs>-16.5 -68.15</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>48</partner_id>
+      <posted_date>2017-06-25T14:40:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:40:02Z</planned_expiration_date>
+      <loan_amount>1025</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>12</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>user_favorite</name>
+        </tag>
+        <tag>
+          <name>#Widowed</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+        <tag>
+          <name>#Repair Renew Replace</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1316488</id>
+      <name>Perline</name>
+      <description>
+        <languages type="list">
+          <language>fr</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>75</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552567</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Beverages</activity>
+      <sector>Food</sector>
+      <use>to buy a large quantity of nonalcoholic beverages.</use>
+      <location>
+        <country_code>MG</country_code>
+        <country>Madagascar</country>
+        <town>Antananarivo</town>
+        <geo>
+          <level>town</level>
+          <pairs>-20 47</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>443</partner_id>
+      <posted_date>2017-06-25T14:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:30:06Z</planned_expiration_date>
+      <loan_amount>425</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>3</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321398</id>
+      <name>Aung Zay Yar (Enterprise) 7 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2547265</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Retail</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to purchase fruits and vegetables (gourds, roselle, gourd leaf, corn, eggplant and bananas) to sell.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Magway</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T14:30:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:30:05Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321406</id>
+      <name>Pauk Pin – 2 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2554341</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Florist</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to purchase farming inputs for growing flowers.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T14:30:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:30:05Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321419</id>
+      <name>Aung Zay Yar (Enterprise) 5 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2547273</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>General Store</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to pay for stocks of groceries to expand her business.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Magway</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T14:30:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:30:05Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321420</id>
+      <name>Aung Myint Tar (Enterprise) 17 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>100</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2547251</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food</activity>
+      <sector>Food</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to make bulk purchases of flour, for making snacks, and other ingredients for her tea shop.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Magway</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T14:30:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:30:05Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>3</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321423</id>
+      <name>Riza</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>125</funded_amount>
+      <image>
+        <id>2559347</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>General Store</activity>
+      <sector>Retail</sector>
+      <use>to buy items to sell such as beverages, canned goods, snack foods, home care products, and other groceries.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Palo, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:30:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:30:05Z</planned_expiration_date>
+      <loan_amount>125</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321402</id>
+      <name>Gloria</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>100</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2556332</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Personal Housing Expenses</activity>
+      <sector>Housing</sector>
+      <themes type="list">
+        <theme>Water and Sanitation</theme>
+      </themes>
+      <use>to buy materials so as to build a new toilet.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Mahaplag, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>125</partner_id>
+      <posted_date>2017-06-25T14:30:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:30:02Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>3</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Eco-friendly</name>
+        </tag>
+        <tag>
+          <name>#Health and Sanitation</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321407</id>
+      <name>Dufatanye Nkotsi Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559325</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Fruits &amp; Vegetables</activity>
+      <sector>Food</sector>
+      <use>to buy more maize,tomatoes and bananas to sell.</use>
+      <location>
+        <country_code>RW</country_code>
+        <country>Rwanda</country>
+        <geo>
+          <level>country</level>
+          <pairs>-2 30</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>117</partner_id>
+      <posted_date>2017-06-25T14:30:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:30:02Z</planned_expiration_date>
+      <loan_amount>1625</loan_amount>
+      <borrower_count>9</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>user_favorite</name>
+        </tag>
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Vegan</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Schooling</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321404</id>
+      <name>Daw Na Chan-4 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>25</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552377</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Fruits &amp; Vegetables</activity>
+      <sector>Food</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to expand her business by buying seasonal fresh vegetables to sell.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T14:20:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:20:05Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Widowed</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321400</id>
+      <name>Sunnah</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559317</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Charcoal Sales</activity>
+      <sector>Retail</sector>
+      <use>to purchase more charcoal in large quantity to increase her business.</use>
+      <location>
+        <country_code>SL</country_code>
+        <country>Sierra Leone</country>
+        <town>Moriba town Bo</town>
+        <geo>
+          <level>town</level>
+          <pairs>8.5 -11.5</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>183</partner_id>
+      <posted_date>2017-06-25T14:20:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:20:05Z</planned_expiration_date>
+      <loan_amount>125</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321405</id>
+      <name>Umu</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>25</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559324</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Grocery Store</activity>
+      <sector>Food</sector>
+      <use>to purchase more oil, palm oil, onions, groundnuts, tomatoes, Maggie, rice, and garden eggs.</use>
+      <location>
+        <country_code>SL</country_code>
+        <country>Sierra Leone</country>
+        <town>Moriba town Bo</town>
+        <geo>
+          <level>town</level>
+          <pairs>8.5 -11.5</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>183</partner_id>
+      <posted_date>2017-06-25T14:20:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:20:05Z</planned_expiration_date>
+      <loan_amount>150</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Schooling</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321411</id>
+      <name>Saniye</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>725</funded_amount>
+      <image>
+        <id>2189864</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Clothing Sales</activity>
+      <sector>Clothing</sector>
+      <themes type="list">
+        <theme>Underfunded Areas</theme>
+      </themes>
+      <use>to buy baby pajamas, suits, sweatsuits and overalls.</use>
+      <location>
+        <country_code>TR</country_code>
+        <country>Turkey</country>
+        <geo>
+          <level>country</level>
+          <pairs>39 35</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>198</partner_id>
+      <posted_date>2017-06-25T14:20:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:20:05Z</planned_expiration_date>
+      <loan_amount>725</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>25</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>user_favorite</name>
+        </tag>
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321399</id>
+      <name>Pacita</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>125</funded_amount>
+      <image>
+        <id>2559314</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Pigs</activity>
+      <sector>Agriculture</sector>
+      <use>to buy feed, vitamins, and other supplies to raise her livestock.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Palo, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:20:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:20:04Z</planned_expiration_date>
+      <loan_amount>125</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>4</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Animals</name>
+        </tag>
+        <tag>
+          <name>#Widowed</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321401</id>
+      <name>Elsie</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>125</funded_amount>
+      <image>
+        <id>2559319</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Pigs</activity>
+      <sector>Agriculture</sector>
+      <use>to buy feeds, vitamins, and other supplies to raise her livestock.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Palo, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:20:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:20:04Z</planned_expiration_date>
+      <loan_amount>125</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>4</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Animals</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321403</id>
+      <name>Lycel</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>150</funded_amount>
+      <image>
+        <id>2559321</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>General Store</activity>
+      <sector>Retail</sector>
+      <use>to buy items to sell like beverages, canned goods, junk foods, and other groceries.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Palo, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:20:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:20:04Z</planned_expiration_date>
+      <loan_amount>150</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>6</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321417</id>
+      <name>Felisa</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>150</funded_amount>
+      <image>
+        <id>2559340</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Pigs</activity>
+      <sector>Agriculture</sector>
+      <use>to buy feeds, vitamins, and other supplies to raise her livestock.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Palo, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:20:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:20:04Z</planned_expiration_date>
+      <loan_amount>150</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Animals</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321397</id>
+      <name>Aung Zay Ya – 1 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552276</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>General Store</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to purchase stock and cold drinks for his grocery shop.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T14:10:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:10:05Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1314293</id>
+      <name>Peth</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2549786</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Farming</activity>
+      <sector>Agriculture</sector>
+      <use>to pay for the plow fees in order to grow rice.</use>
+      <location>
+        <country_code>KH</country_code>
+        <country>Cambodia</country>
+        <town>Kampong Chhnang Province, Kampong Leng District</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 105</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>204</partner_id>
+      <posted_date>2017-06-25T14:10:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:10:05Z</planned_expiration_date>
+      <loan_amount>1000</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Job Creator</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1314966</id>
+      <name>Chenda's Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2550613</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Farming</activity>
+      <sector>Agriculture</sector>
+      <use>to purchase more seed and pay her plowing fee in order to improve her corn and cassava farmland.</use>
+      <location>
+        <country_code>KH</country_code>
+        <country>Cambodia</country>
+        <town>Battambang province, Kam Rieng district </town>
+        <geo>
+          <level>town</level>
+          <pairs>13 105</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>204</partner_id>
+      <posted_date>2017-06-25T14:10:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:10:05Z</planned_expiration_date>
+      <loan_amount>1050</loan_amount>
+      <borrower_count>3</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Job Creator</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1315689</id>
+      <name>Samnang's Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2551499</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Services</activity>
+      <sector>Services</sector>
+      <use>to renovate the motorbike washing place to attract more customers.</use>
+      <location>
+        <country_code>KH</country_code>
+        <country>Cambodia</country>
+        <town>Phnom Penh, Dongkor District </town>
+        <geo>
+          <level>town</level>
+          <pairs>13 105</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>204</partner_id>
+      <posted_date>2017-06-25T14:10:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:10:05Z</planned_expiration_date>
+      <loan_amount>500</loan_amount>
+      <borrower_count>2</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321396</id>
+      <name>Shealtiel</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>250</funded_amount>
+      <image>
+        <id>2559311</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Retail</activity>
+      <sector>Retail</sector>
+      <use>to buy additional cases of drinks to sell.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Minglanilla, Cebu</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T14:10:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T14:10:05Z</planned_expiration_date>
+      <loan_amount>250</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321392</id>
+      <name>Na Gar Twin-6 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552380</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Fruits &amp; Vegetables</activity>
+      <sector>Food</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to invest in her business by purchasing more vegetables to sell and also invest in the family farm.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T13:50:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:50:02Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321395</id>
+      <name>Aung Zay Ya – 8 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552265</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Grocery Store</activity>
+      <sector>Food</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to buy items to sell in her grocery shop, especially the items that sell out quickly.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T13:50:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:50:02Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321390</id>
+      <name>Aung Zay Ya – 3 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>25</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552146</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food</activity>
+      <sector>Food</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to buy tables and chairs for her small restaurant.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T13:40:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:40:05Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>user_favorite</name>
+        </tag>
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Biz Durable Asset</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321391</id>
+      <name>Aung Zay Ya – 6 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552220</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>General Store</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to purchase stock for her grocery shop to expand her offering for her clients.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T13:40:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:40:05Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321393</id>
+      <name>Marilyn</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>150</funded_amount>
+      <image>
+        <id>2559302</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Production/Sales</activity>
+      <sector>Food</sector>
+      <use>to buy ingredients for her food production business.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Liloan, Cebu</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T13:40:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:40:04Z</planned_expiration_date>
+      <loan_amount>150</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321394</id>
+      <name>Hawa</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559309</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Market</activity>
+      <sector>Food</sector>
+      <use>to purchase more oil, palm oil, onions, groundnuts, tomatoes, onions, Maggi, rice, and garden eggs.</use>
+      <location>
+        <country_code>SL</country_code>
+        <country>Sierra Leone</country>
+        <town>Moriba town Bo</town>
+        <geo>
+          <level>town</level>
+          <pairs>8.5 -11.5</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>183</partner_id>
+      <posted_date>2017-06-25T13:40:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:40:05Z</planned_expiration_date>
+      <loan_amount>175</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321387</id>
+      <name>Bone Soe – 7 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>150</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552115</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Tailoring</activity>
+      <sector>Services</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to purchase sewing accessories and beautiful new textiles for her tailoring business.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T13:30:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:30:04Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Fabrics</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321389</id>
+      <name>Pyi Taw Thar – 2 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552131</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Production/Sales</activity>
+      <sector>Food</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to purchase cold drinks and ingredients for her Shan noodle shop.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T13:30:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:30:04Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1326982</id>
+      <name>Noemy Del Carmen</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>300</funded_amount>
+      <image>
+        <id>2567166</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Production/Sales</activity>
+      <sector>Food</sector>
+      <use>to buy an industrial stove and corn for tortilla sales.  Thanks to her earnings, she will improve her life, because she is a single mother.</use>
+      <location>
+        <country_code>SV</country_code>
+        <country>El Salvador</country>
+        <town>San Miguel</town>
+        <geo>
+          <level>town</level>
+          <pairs>13.833333 -88.916667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>199</partner_id>
+      <posted_date>2017-06-25T13:30:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:30:03Z</planned_expiration_date>
+      <loan_amount>300</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>12</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Single Parent</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+        <tag>
+          <name>#Biz Durable Asset</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321386</id>
+      <name>Chan Mya Wati-8 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>50</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2551999</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Retail</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>purchase flowers and vegetables to incease her stock and offer more variety to her clients.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T13:20:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:20:05Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>2</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1325977</id>
+      <name>José Adán</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2565888</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Farming</activity>
+      <sector>Agriculture</sector>
+      <themes type="list">
+        <theme>Vulnerable Groups</theme>
+        <theme>Underfunded Areas</theme>
+      </themes>
+      <use>to buy agricultural supplies for preparing the land and sowing basic grains.</use>
+      <location>
+        <country_code>SV</country_code>
+        <country>El Salvador</country>
+        <town>Sensuntepeque</town>
+        <geo>
+          <level>town</level>
+          <pairs>13.833333 -88.916667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>199</partner_id>
+      <posted_date>2017-06-25T13:20:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:20:05Z</planned_expiration_date>
+      <loan_amount>250</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321388</id>
+      <name>Teresita</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>250</funded_amount>
+      <image>
+        <id>2559300</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Cereals</activity>
+      <sector>Food</sector>
+      <use>to purchase additional sacks of rice to sell.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Canlaon, Negros Oriental</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T13:20:04Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:20:04Z</planned_expiration_date>
+      <loan_amount>250</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321385</id>
+      <name>Ah Lone – 36 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>25</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2551985</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Services</activity>
+      <sector>Services</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to pay rental fees and other general expenses to open a copier shop.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Magway</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T13:10:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:10:02Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1325976</id>
+      <name>Las Canelitas De La I Group</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>1500</funded_amount>
+      <image>
+        <id>2565887</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Services</activity>
+      <sector>Services</sector>
+      <use>to buy bricks and cement to build their home.</use>
+      <location>
+        <country_code>PE</country_code>
+        <country>Peru</country>
+        <town>Huaycan</town>
+        <geo>
+          <level>town</level>
+          <pairs>-12.083333 -76.766667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>93</partner_id>
+      <posted_date>2017-06-25T13:10:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:10:02Z</planned_expiration_date>
+      <loan_amount>1500</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321384</id>
+      <name>Myo Thit – 4 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>25</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2551971</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Retail</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to purchase more stock of vegetables and flowers to sell.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T13:00:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T13:00:03Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>user_favorite</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1325975</id>
+      <name>Jerry Ronald</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>75</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2565886</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Internet Cafe</activity>
+      <sector>Services</sector>
+      <themes type="list">
+        <theme>Vulnerable Groups</theme>
+        <theme>Conflict Zones</theme>
+      </themes>
+      <use>to purchase computer items to sell at his internet café.</use>
+      <location>
+        <country_code>SV</country_code>
+        <country>El Salvador</country>
+        <town>Sensuntepeque</town>
+        <geo>
+          <level>town</level>
+          <pairs>13.833333 -88.916667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>199</partner_id>
+      <posted_date>2017-06-25T12:50:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:50:02Z</planned_expiration_date>
+      <loan_amount>1200</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>3</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+        <tag>
+          <name>#Technology</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1325968</id>
+      <name>Omaira Esther</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>225</funded_amount>
+      <image>
+        <id>2565867</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Manufacturing</activity>
+      <sector>Manufacturing</sector>
+      <themes type="list">
+        <theme>Vulnerable Groups</theme>
+      </themes>
+      <use>to purchase molds, bases, and a polishing and painting machine.</use>
+      <location>
+        <country_code>CO</country_code>
+        <country>Colombia</country>
+        <town>Barranquilla</town>
+        <geo>
+          <level>town</level>
+          <pairs>4 -72</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>154</partner_id>
+      <posted_date>2017-06-25T12:40:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:40:02Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1325974</id>
+      <name>Rio Bendito Group</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>25</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2565885</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Beverages</activity>
+      <sector>Food</sector>
+      <use>to grow and to start a kiosk.</use>
+      <location>
+        <country_code>NI</country_code>
+        <country>Nicaragua</country>
+        <town>Managua</town>
+        <geo>
+          <level>town</level>
+          <pairs>12.150833 -86.268333</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>120</partner_id>
+      <posted_date>2017-06-25T12:40:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:40:02Z</planned_expiration_date>
+      <loan_amount>775</loan_amount>
+      <borrower_count>3</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321378</id>
+      <name>Myo Thit-3 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>25</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552372</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Restaurant</activity>
+      <sector>Food</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to purchase needed ingredients, vegetables, and meat for her restaurant.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T12:30:07Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:30:07Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321370</id>
+      <name>Mejumaa</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>100</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559285</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Fruits &amp; Vegetables</activity>
+      <sector>Food</sector>
+      <use>to purchase green vegetables, two crates of tomatoes, and onions for resale.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Msambweni</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>164</partner_id>
+      <posted_date>2017-06-25T12:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:30:06Z</planned_expiration_date>
+      <loan_amount>500</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>4</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321376</id>
+      <name>Daw Na Chan-5 Group</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>25</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2552360</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Grocery Store</activity>
+      <sector>Food</sector>
+      <themes type="list">
+        <theme>Growing Businesses</theme>
+        <theme>Underfunded Areas</theme>
+        <theme>Start-Up</theme>
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to buy more and new items to sell.</use>
+      <location>
+        <country_code>MM</country_code>
+        <country>Myanmar (Burma)</country>
+        <town>Monywa</town>
+        <geo>
+          <level>town</level>
+          <pairs>22 98</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>416</partner_id>
+      <posted_date>2017-06-25T12:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:30:06Z</planned_expiration_date>
+      <loan_amount>925</loan_amount>
+      <borrower_count>5</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321381</id>
+      <name>Nanet</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>175</funded_amount>
+      <image>
+        <id>2559298</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Fuel/Firewood</activity>
+      <sector>Retail</sector>
+      <use>to buy bundles of firewood to sell.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Liloan, Cebu</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T12:30:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:30:05Z</planned_expiration_date>
+      <loan_amount>175</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321377</id>
+      <name>Gorgoria</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>225</funded_amount>
+      <image>
+        <id>2559291</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Food Production/Sales</activity>
+      <sector>Food</sector>
+      <use>to buy ingredients for her food production business.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Canlaon, Negros Oriental</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T12:30:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:30:05Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321380</id>
+      <name>Olivia</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>225</funded_amount>
+      <image>
+        <id>2559295</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Home Products Sales</activity>
+      <sector>Retail</sector>
+      <use>to buy additional items such as toothpaste, body soap, body spray and lotion, laundry soap, and toilet soap.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Canlaon, Negros Oriental</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T12:30:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:30:05Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321379</id>
+      <name>Eunice</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>100</funded_amount>
+      <image>
+        <id>2542889</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Farming</activity>
+      <sector>Agriculture</sector>
+      <use>to purchase manure for top dressing.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Kapsabet</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>133</partner_id>
+      <posted_date>2017-06-25T12:30:03Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:30:03Z</planned_expiration_date>
+      <loan_amount>100</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>4</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321383</id>
+      <name>Felicidad</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>150</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2556329</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Personal Housing Expenses</activity>
+      <sector>Housing</sector>
+      <themes type="list">
+        <theme>Water and Sanitation</theme>
+      </themes>
+      <use>to buy a toilet bowl, hollow blocks, cement, PVC, deformed bar and tiles.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Mahaplag, Leyte</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>125</partner_id>
+      <posted_date>2017-06-25T12:30:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:30:02Z</planned_expiration_date>
+      <loan_amount>375</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>5</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Eco-friendly</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+        <tag>
+          <name>#Health and Sanitation</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321364</id>
+      <name>Duong</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559275</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Grocery Store</activity>
+      <sector>Food</sector>
+      <themes type="list">
+        <theme>Job Creation</theme>
+        <theme>Growing Businesses</theme>
+      </themes>
+      <use>to open a small grocery store to sell various kinds of products to improve the quality of her family’s life.</use>
+      <location>
+        <country_code>VN</country_code>
+        <country>Vietnam</country>
+        <town>Quang Trach, Quang Binh</town>
+        <geo>
+          <level>town</level>
+          <pairs>16.166667 107.833333</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>394</partner_id>
+      <posted_date>2017-06-25T12:20:07Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:20:07Z</planned_expiration_date>
+      <loan_amount>900</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1326976</id>
+      <name>José Sabino</name>
+      <description>
+        <languages type="list">
+          <language>es</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2567157</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>General Store</activity>
+      <sector>Retail</sector>
+      <themes type="list">
+        <theme>Vulnerable Groups</theme>
+        <theme>Conflict Zones</theme>
+      </themes>
+      <use>to purchase snacks, sodas, detergents, coffee, adhesives, etc. to sell in his store.</use>
+      <location>
+        <country_code>SV</country_code>
+        <country>El Salvador</country>
+        <town>San Miguel</town>
+        <geo>
+          <level>town</level>
+          <pairs>13.833333 -88.916667</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>199</partner_id>
+      <posted_date>2017-06-25T12:20:07Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:20:07Z</planned_expiration_date>
+      <loan_amount>750</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321366</id>
+      <name>Edda</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>0</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559280</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Retail</activity>
+      <sector>Retail</sector>
+      <use>to purchase stock of sugar, rice, maize flour and wheat flour.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Voi</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>164</partner_id>
+      <posted_date>2017-06-25T12:20:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:20:06Z</planned_expiration_date>
+      <loan_amount>500</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>0</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321368</id>
+      <name>Martha</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>100</funded_amount>
+      <image>
+        <id>2559282</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Home Energy</activity>
+      <sector>Personal Use</sector>
+      <themes type="list">
+        <theme>Green</theme>
+        <theme>Earth Day Campaign</theme>
+      </themes>
+      <use>to buy a solar lantern.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Kerugoya</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>156</partner_id>
+      <posted_date>2017-06-25T12:20:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:20:06Z</planned_expiration_date>
+      <loan_amount>100</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>3</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Eco-friendly</name>
+        </tag>
+        <tag>
+          <name>#Technology</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321367</id>
+      <name>Cerisa</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>325</funded_amount>
+      <image>
+        <id>2559281</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Fish Selling</activity>
+      <sector>Food</sector>
+      <use>to buy a variety of fish to sell and other supplies needed in her business.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Liloan, Cebu</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T12:20:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:20:05Z</planned_expiration_date>
+      <loan_amount>325</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321369</id>
+      <name>Nerissa</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>225</funded_amount>
+      <image>
+        <id>2108070</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Fish Selling</activity>
+      <sector>Food</sector>
+      <use>to buy more fish to sell and other supplies needed in her business.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Liloan, Cebu</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T12:20:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:20:05Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1322603</id>
+      <name>Francisca</name>
+      <description>
+        <languages type="list">
+          <language>pt</language>
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>325</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2561113</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Agriculture</activity>
+      <sector>Agriculture</sector>
+      <use>to buy sweet potato seeds.</use>
+      <location>
+        <country_code>MZ</country_code>
+        <country>Mozambique</country>
+        <town>Moamba, Maputo</town>
+        <geo>
+          <level>town</level>
+          <pairs>-18.25 35</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>23</partner_id>
+      <posted_date>2017-06-25T12:20:02Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:20:02Z</planned_expiration_date>
+      <loan_amount>825</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>12</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Widowed</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321354</id>
+      <name>Ayse</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>550</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2390084</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Clothing Sales</activity>
+      <sector>Clothing</sector>
+      <themes type="list">
+        <theme>Underfunded Areas</theme>
+      </themes>
+      <use>to buy baby clothes.</use>
+      <location>
+        <country_code>TR</country_code>
+        <country>Turkey</country>
+        <geo>
+          <level>country</level>
+          <pairs>39 35</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>198</partner_id>
+      <posted_date>2017-06-25T12:10:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:10:06Z</planned_expiration_date>
+      <loan_amount>725</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>22</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>user_favorite</name>
+        </tag>
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Single</name>
+        </tag>
+        <tag>
+          <name>#Repeat Borrower</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321365</id>
+      <name>Swalety</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>300</funded_amount>
+      <image>
+        <id>2559279</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Clothing</activity>
+      <sector>Clothing</sector>
+      <use>to purchase bales of clothes for resale.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Msambweni</town>
+        <geo>
+          <level>town</level>
+          <pairs>1 38</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>164</partner_id>
+      <posted_date>2017-06-25T12:10:06Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:10:06Z</planned_expiration_date>
+      <loan_amount>300</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>9</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Eco-friendly</name>
+        </tag>
+        <tag>
+          <name>#Parent</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321359</id>
+      <name>Lucy</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>300</funded_amount>
+      <image>
+        <id>2559260</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Farming</activity>
+      <sector>Agriculture</sector>
+      <themes type="list">
+        <theme>Rural Exclusion</theme>
+      </themes>
+      <use>to buy farm inputs to grow more crops on her horticulture farm.</use>
+      <location>
+        <country_code>KE</country_code>
+        <country>Kenya</country>
+        <town>Chuka</town>
+        <geo>
+          <level>town</level>
+          <pairs>-0.333333 37.65</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>156</partner_id>
+      <posted_date>2017-06-25T12:10:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:10:05Z</planned_expiration_date>
+      <loan_amount>300</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>11</lender_count>
+      <bonus_credit_eligibility>0</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+      </tags>
+    </loan>
+    <loan>
+      <id>1321361</id>
+      <name>Applerie</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>funded</status>
+      <funded_amount>225</funded_amount>
+      <image>
+        <id>2559276</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>General Store</activity>
+      <sector>Retail</sector>
+      <use>to buy items to sell like beverages, canned goods, junk foods, and other groceries.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Liloan, Cebu</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T12:10:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:10:05Z</planned_expiration_date>
+      <loan_amount>225</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags/>
+    </loan>
+    <loan>
+      <id>1321362</id>
+      <name>Nicanora</name>
+      <description>
+        <languages type="list">
+          <language>en</language>
+        </languages>
+      </description>
+      <status>fundraising</status>
+      <funded_amount>25</funded_amount>
+      <basket_amount>0</basket_amount>
+      <image>
+        <id>2559274</id>
+        <template_id>1</template_id>
+      </image>
+      <activity>Retail</activity>
+      <sector>Retail</sector>
+      <use>to purchase additional stocks of dry goods to sell.</use>
+      <location>
+        <country_code>PH</country_code>
+        <country>Philippines</country>
+        <town>Escalante, Negros Occidental</town>
+        <geo>
+          <level>town</level>
+          <pairs>13 122</pairs>
+          <type>point</type>
+        </geo>
+      </location>
+      <partner_id>145</partner_id>
+      <posted_date>2017-06-25T12:10:05Z</posted_date>
+      <planned_expiration_date>2017-07-25T12:10:05Z</planned_expiration_date>
+      <loan_amount>325</loan_amount>
+      <borrower_count>1</borrower_count>
+      <lender_count>1</lender_count>
+      <bonus_credit_eligibility>1</bonus_credit_eligibility>
+      <tags type="list">
+        <tag>
+          <name>#Woman Owned Biz</name>
+        </tag>
+        <tag>
+          <name>#Elderly</name>
+        </tag>
+      </tags>
+    </loan>
+  </loans>
+</response>
