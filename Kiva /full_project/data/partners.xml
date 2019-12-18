@@ -1,0 +1,4421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<response>
+  <partners type="list">
+    <partner>
+      <id>438</id>
+      <name>Réseau de Micro-institutions de Croissance de Revenus (RMCR)</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>1740802</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2015-01-16T23:50:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>ML</iso_code>
+          <region>Africa</region>
+          <name>Mali</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>17 -4</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.1125364387655</delinquency_rate>
+      <default_rate>0.54829206321864</default_rate>
+      <total_amount_raised>3510425</total_amount_raised>
+      <loans_posted>1489</loans_posted>
+      <portfolio_yield>26</portfolio_yield>
+      <profitability>-3.6</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.1125364387655</loans_at_risk_rate>
+      <currency_exchange_loss_rate>3.8456882001467E-5</currency_exchange_loss_rate>
+    </partner>
+    <partner>
+      <id>199</id>
+      <name>CrediCampo</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>1524454</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2011-09-08T03:20:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>SV</iso_code>
+          <region>Central America</region>
+          <name>El Salvador</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13.833333 -88.916667</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>2.4834444054298</delinquency_rate>
+      <default_rate>1.1828803179341</default_rate>
+      <total_amount_raised>11913025</total_amount_raised>
+      <loans_posted>18323</loans_posted>
+      <portfolio_yield>29.7</portfolio_yield>
+      <profitability>3.8</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>37.6</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>4.2884533838402</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.fundacioncampo.org</url>
+    </partner>
+    <partner>
+      <id>93</id>
+      <name>EDAPROSPO</name>
+      <status>active</status>
+      <rating>3.5</rating>
+      <image>
+        <id>86851</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2007-12-27T00:00:25Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PE</iso_code>
+          <region>South America</region>
+          <name>Peru</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-10 -76</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>12830625</total_amount_raised>
+      <loans_posted>6262</loans_posted>
+      <portfolio_yield>42</portfolio_yield>
+      <profitability>2.3</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>7.8</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.0051552438014516</currency_exchange_loss_rate>
+      <url>http://www.edapr.org.pe</url>
+    </partner>
+    <partner>
+      <id>381</id>
+      <name>MicroLoan Foundation (MLF) Malawi</name>
+      <status>active</status>
+      <rating>1.0</rating>
+      <image>
+        <id>1580886</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-09-04T15:00:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>MW</iso_code>
+          <region>Africa</region>
+          <name>Malawi</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-13.5 34</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.14391277548997</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>1082525</total_amount_raised>
+      <loans_posted>880</loans_posted>
+      <portfolio_yield>68</portfolio_yield>
+      <profitability>-4.1</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.0957232990998</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.3167335627353</currency_exchange_loss_rate>
+      <url>http://www.microloanfoundation.org.uk/who-we-are/</url>
+    </partner>
+    <partner>
+      <id>140</id>
+      <name>CIDRE</name>
+      <status>active</status>
+      <rating>3.5</rating>
+      <image>
+        <id>2081412</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-07-07T03:00:06Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>BO</iso_code>
+          <region>South America</region>
+          <name>Bolivia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-17 -65</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.5682302815172</delinquency_rate>
+      <default_rate>1.6012453761993</default_rate>
+      <total_amount_raised>4133950</total_amount_raised>
+      <loans_posted>2667</loans_posted>
+      <portfolio_yield>18.8</portfolio_yield>
+      <profitability>0.58</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>232.8</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>34.945487237838</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.cidre.org.bo/</url>
+    </partner>
+    <partner>
+      <id>61</id>
+      <name>MAXIMA Microfinance</name>
+      <status>active</status>
+      <rating>3.5</rating>
+      <image>
+        <id>37651</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2007-05-29T04:13:27Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KH</iso_code>
+          <region>Asia</region>
+          <name>Cambodia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 105</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0</delinquency_rate>
+      <default_rate>0.015814195183777</default_rate>
+      <total_amount_raised>4118325</total_amount_raised>
+      <loans_posted>5671</loans_posted>
+      <portfolio_yield>24</portfolio_yield>
+      <profitability>4</profitability>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>115.5</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.maxima.com.kh/</url>
+    </partner>
+    <partner>
+      <id>462</id>
+      <name>Al Ibdaa Microfinance</name>
+      <status>active</status>
+      <rating>2.5</rating>
+      <image>
+        <id>1969935</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2015-09-17T22:00:04Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PS</iso_code>
+          <region>Middle East</region>
+          <name>Palestine</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>31.92157 35.203285</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+        <country>
+          <iso_code>IL</iso_code>
+          <region>Middle East</region>
+          <name>Israel</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>31.5 34.75</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.96147308444478</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>793150</total_amount_raised>
+      <loans_posted>559</loans_posted>
+      <portfolio_yield>20</portfolio_yield>
+      <profitability>-5.2</profitability>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>6.5383109537056</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.alibdaa.ps</url>
+    </partner>
+    <partner>
+      <id>452</id>
+      <name>African Clean Energy (ACE)</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>1858613</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2015-07-20T12:10:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>LS</iso_code>
+          <region>Africa</region>
+          <name>Lesotho</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-29.5 28.25</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+        <country>
+          <iso_code>ZA</iso_code>
+          <region>Africa</region>
+          <name>South Africa</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-30 26</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>30.098505917804</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>357750</total_amount_raised>
+      <loans_posted>420</loans_posted>
+      <profitability>8.5</profitability>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>0</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>41.720785429031</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.16935569531796</currency_exchange_loss_rate>
+      <url>http://www.africancleanenergy.com</url>
+    </partner>
+    <partner>
+      <id>204</id>
+      <name>VisionFund Cambodia</name>
+      <status>active</status>
+      <rating>4.5</rating>
+      <image>
+        <id>1173658</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2011-09-24T00:20:05Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KH</iso_code>
+          <region>Asia</region>
+          <name>Cambodia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 105</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+        <country>
+          <iso_code>TH</iso_code>
+          <region>Asia</region>
+          <name>Thailand</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>15 100</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>3.0488896996742</delinquency_rate>
+      <default_rate>0.24266114044351</default_rate>
+      <total_amount_raised>12088750</total_amount_raised>
+      <loans_posted>16238</loans_posted>
+      <portfolio_yield>27</portfolio_yield>
+      <profitability>3.1</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>34</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>10.437714311899</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.visionfund.com.kh</url>
+    </partner>
+    <partner>
+      <id>411</id>
+      <name>South Pacific Business Development (SPBD) - Solomon Islands</name>
+      <status>active</status>
+      <rating>1.0</rating>
+      <image>
+        <id>2510186</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-11-11T18:50:04Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>SB</iso_code>
+          <region>Oceania</region>
+          <name>Solomon Islands</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-8 159</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.41406490991803</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>452900</total_amount_raised>
+      <loans_posted>486</loans_posted>
+      <portfolio_yield>58</portfolio_yield>
+      <profitability>-23.6</profitability>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.1435921436633</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.00044822256568779</currency_exchange_loss_rate>
+      <url>http://www.spbdmicrofinance.com</url>
+    </partner>
+    <partner>
+      <id>247</id>
+      <name>BRAC Pakistan</name>
+      <status>active</status>
+      <rating>2.5</rating>
+      <image>
+        <id>2081444</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2012-08-03T03:00:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PK</iso_code>
+          <region>Asia</region>
+          <name>Pakistan</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>30 70</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.0080064620962719</delinquency_rate>
+      <default_rate>0.03573898036289</default_rate>
+      <total_amount_raised>7173825</total_amount_raised>
+      <loans_posted>14532</loans_posted>
+      <portfolio_yield>39</portfolio_yield>
+      <profitability>2.78</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>9.4</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0.0080064620962719</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.0002202451272508</currency_exchange_loss_rate>
+      <url>http://pakistan.brac.net/</url>
+    </partner>
+    <partner>
+      <id>380</id>
+      <name>Fonkoze - Zafèn</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>1631586</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-06-13T00:50:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>HT</iso_code>
+          <region>North America</region>
+          <name>Haiti</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>19 -72.416667</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>5.2197943328517</delinquency_rate>
+      <default_rate>4.5485418941545</default_rate>
+      <total_amount_raised>670075</total_amount_raised>
+      <loans_posted>381</loans_posted>
+      <portfolio_yield>3</portfolio_yield>
+      <profitability>38.4</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>12.182569869459</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.54581949781741</currency_exchange_loss_rate>
+      <url>http://www.zafen.org</url>
+    </partner>
+    <partner>
+      <id>240</id>
+      <name>KosInvest</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>1092528</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2012-05-14T09:10:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>XK</iso_code>
+          <region>Eastern Europe</region>
+          <name>Kosovo</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>42.583333 21</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.60161922033329</delinquency_rate>
+      <default_rate>1.4691416952055</default_rate>
+      <total_amount_raised>2443450</total_amount_raised>
+      <loans_posted>1841</loans_posted>
+      <portfolio_yield>26</portfolio_yield>
+      <profitability>-4.26</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>47.8</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.8648921355453</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.6690765106714</currency_exchange_loss_rate>
+      <url>http://www.kosinvest.org</url>
+    </partner>
+    <partner>
+      <id>100</id>
+      <name>IMON International</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>219034</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2007-12-24T17:55:13Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>TJ</iso_code>
+          <region>Asia</region>
+          <name>Tajikistan</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>39 71</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.1616214468807</delinquency_rate>
+      <default_rate>0.119355682863</default_rate>
+      <total_amount_raised>15885850</total_amount_raised>
+      <loans_posted>16575</loans_posted>
+      <portfolio_yield>33</portfolio_yield>
+      <profitability>1.4</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>113.2</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.4562972547996</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.011820582468</currency_exchange_loss_rate>
+      <url>https://imon.tj/en/#/</url>
+    </partner>
+    <partner>
+      <id>442</id>
+      <name>Entrepreneurs du Monde - Palmis Mikwofinans Sosyal</name>
+      <status>active</status>
+      <rating>1.0</rating>
+      <image>
+        <id>1754704</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2015-03-23T19:00:21Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>HT</iso_code>
+          <region>North America</region>
+          <name>Haiti</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>19 -72.416667</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>5.3712431920095</delinquency_rate>
+      <default_rate>0.60146083114014</default_rate>
+      <total_amount_raised>1129650</total_amount_raised>
+      <loans_posted>2547</loans_posted>
+      <portfolio_yield>49</portfolio_yield>
+      <profitability>-9.4</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>6.4965209555903</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.62481210994556</currency_exchange_loss_rate>
+      <url>http://www.entrepreneursdumonde.org</url>
+    </partner>
+    <partner>
+      <id>392</id>
+      <name>ASA Initiative</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>1617690</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-07-18T07:40:35Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>GH</iso_code>
+          <region>Africa</region>
+          <name>Ghana</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>8 -2</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>55.716720942611</delinquency_rate>
+      <default_rate>0.1304347826087</default_rate>
+      <total_amount_raised>607125</total_amount_raised>
+      <loans_posted>300</loans_posted>
+      <portfolio_yield>32.6</portfolio_yield>
+      <profitability>0.89</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>67.119705244859</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.1380012353305</currency_exchange_loss_rate>
+      <url>http://www.asainitiativegh.org</url>
+    </partner>
+    <partner>
+      <id>23</id>
+      <name>Hluvuku-Adsema</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>1432</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2006-11-18T18:36:56Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>MZ</iso_code>
+          <region>Africa</region>
+          <name>Mozambique</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-18.25 35</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.93422186671361</delinquency_rate>
+      <default_rate>0.31233710798974</default_rate>
+      <total_amount_raised>3244825</total_amount_raised>
+      <loans_posted>5817</loans_posted>
+      <portfolio_yield>45</portfolio_yield>
+      <profitability>12.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>97.6</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>4.024689622803</loans_at_risk_rate>
+      <currency_exchange_loss_rate>5.0040541477584</currency_exchange_loss_rate>
+      <url>http://hluvuku-adsema.org.mz/eng/hluvuku-adsema/</url>
+    </partner>
+    <partner>
+      <id>9</id>
+      <name>KREDIT Microfinance Institution</name>
+      <status>active</status>
+      <rating>4.5</rating>
+      <image>
+        <id>2081428</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2006-05-03T15:56:20Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KH</iso_code>
+          <region>Asia</region>
+          <name>Cambodia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 105</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.20919322664036</delinquency_rate>
+      <default_rate>0.019755836897715</default_rate>
+      <total_amount_raised>12784750</total_amount_raised>
+      <loans_posted>13970</loans_posted>
+      <portfolio_yield>23</portfolio_yield>
+      <profitability>2.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>93.6</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0.37656579078463</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.credit.com.kh</url>
+    </partner>
+    <partner>
+      <id>402</id>
+      <name>Programme d'Appui aux Initiatives de Développement Economique au Kivu (PAIDEK)</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>1618909</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-11-26T18:10:13Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>CD</iso_code>
+          <region>Africa</region>
+          <name>The Democratic Republic of the Congo</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>0 25</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>23.160140987858</delinquency_rate>
+      <default_rate>1.3251088128926</default_rate>
+      <total_amount_raised>953650</total_amount_raised>
+      <loans_posted>910</loans_posted>
+      <portfolio_yield>36</portfolio_yield>
+      <profitability>3.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>26.831588710594</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+    </partner>
+    <partner>
+      <id>118</id>
+      <name>Prisma Honduras</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>1364294</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2008-07-04T06:40:12Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>HN</iso_code>
+          <region>Central America</region>
+          <name>Honduras</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>15 -86.5</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>2.0801913223383</delinquency_rate>
+      <default_rate>0.71711832201617</default_rate>
+      <total_amount_raised>3951800</total_amount_raised>
+      <loans_posted>5814</loans_posted>
+      <portfolio_yield>45</portfolio_yield>
+      <profitability>3.2</profitability>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>40.6</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>3.4565421745147</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.052564907130928</currency_exchange_loss_rate>
+      <url>http://www.prismahonduras.hn2.com/</url>
+    </partner>
+    <partner>
+      <id>145</id>
+      <name>Negros Women for Tomorrow Foundation (NWTF)</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>1313233</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-07-10T23:24:18Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PH</iso_code>
+          <region>Asia</region>
+          <name>Philippines</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 122</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.045582342054889</delinquency_rate>
+      <default_rate>0.030601815027267</default_rate>
+      <total_amount_raised>43395925</total_amount_raised>
+      <loans_posted>129044</loans_posted>
+      <portfolio_yield>41</portfolio_yield>
+      <profitability>5.7</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>5.7</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0.051737047060499</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.0023569033267525</currency_exchange_loss_rate>
+      <url>https://nwtf.org.ph/</url>
+    </partner>
+    <partner>
+      <id>183</id>
+      <name>BRAC Sierra Leone</name>
+      <status>active</status>
+      <rating>2.0</rating>
+      <image>
+        <id>712505</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2011-03-24T17:20:04Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>SL</iso_code>
+          <region>Africa</region>
+          <name>Sierra Leone</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>8.5 -11.5</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.19970176742929</delinquency_rate>
+      <default_rate>0.59637310439464</default_rate>
+      <total_amount_raised>1741900</total_amount_raised>
+      <loans_posted>4823</loans_posted>
+      <portfolio_yield>42</portfolio_yield>
+      <profitability>-17.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>35.3</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0.43975959367252</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.67300706125495</currency_exchange_loss_rate>
+      <url>http://www.brac.net/content/about-brac-sierra-leone</url>
+    </partner>
+    <partner>
+      <id>154</id>
+      <name>Fundación Mario Santo Domingo (FMSD)</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>497262</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-12-19T08:10:15Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>CO</iso_code>
+          <region>South America</region>
+          <name>Colombia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>4 -72</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>10.381092816454</delinquency_rate>
+      <default_rate>0.017930773225797</default_rate>
+      <total_amount_raised>5132475</total_amount_raised>
+      <loans_posted>7904</loans_posted>
+      <portfolio_yield>28</portfolio_yield>
+      <profitability>0.3</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>20.5</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>32.451883299497</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.6926775093887</currency_exchange_loss_rate>
+      <url>http://www.fmsd.org.co/</url>
+    </partner>
+    <partner>
+      <id>144</id>
+      <name>CCT Credit Cooperative</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>840860</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-06-25T04:42:35Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PH</iso_code>
+          <region>Asia</region>
+          <name>Philippines</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 122</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>3.2016073558974</delinquency_rate>
+      <default_rate>0.39119592766319</default_rate>
+      <total_amount_raised>7433325</total_amount_raised>
+      <loans_posted>14278</loans_posted>
+      <portfolio_yield>57.1</portfolio_yield>
+      <profitability>5.56</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>6.7</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>3.5031969160948</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.00016426027383439</currency_exchange_loss_rate>
+      <url>http://www.cct.org.ph</url>
+    </partner>
+    <partner>
+      <id>133</id>
+      <name>VisionFund Kenya</name>
+      <status>active</status>
+      <rating>2.5</rating>
+      <image>
+        <id>1495190</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-05-29T11:35:11Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KE</iso_code>
+          <region>Africa</region>
+          <name>Kenya</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>1 38</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>7.0154038718471</delinquency_rate>
+      <default_rate>3.6321447780236</default_rate>
+      <total_amount_raised>11475325</total_amount_raised>
+      <loans_posted>31123</loans_posted>
+      <portfolio_yield>36</portfolio_yield>
+      <profitability>-1.7</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>34.9</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>12.347689941983</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.088510608632</currency_exchange_loss_rate>
+      <url>http://www.visionfundkenya.co.ke/</url>
+    </partner>
+    <partner>
+      <id>239</id>
+      <name>Agro &amp; Social Fund</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>2438544</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2012-05-17T14:30:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>AL</iso_code>
+          <region>Eastern Europe</region>
+          <name>Albania</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>41 20</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.0297069412902</delinquency_rate>
+      <default_rate>1.5601878663045</default_rate>
+      <total_amount_raised>3313050</total_amount_raised>
+      <loans_posted>2584</loans_posted>
+      <portfolio_yield>31</portfolio_yield>
+      <profitability>0.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>19.5</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>3.0625369068758</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.692919817087</currency_exchange_loss_rate>
+      <url>http://asfund.org/</url>
+    </partner>
+    <partner>
+      <id>185</id>
+      <name>National Microfinance Bank</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>790950</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2011-03-30T22:00:05Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>JO</iso_code>
+          <region>Middle East</region>
+          <name>Jordan</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>31 36</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.69895332170402</delinquency_rate>
+      <default_rate>0.54052142395751</default_rate>
+      <total_amount_raised>7004000</total_amount_raised>
+      <loans_posted>6605</loans_posted>
+      <portfolio_yield>36</portfolio_yield>
+      <profitability>11</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>13.3</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.9918671711492</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.nmb.com.jo</url>
+    </partner>
+    <partner>
+      <id>176</id>
+      <name>MiCredito</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>2284916</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2010-12-01T16:10:12Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>NI</iso_code>
+          <region>Central America</region>
+          <name>Nicaragua</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 -85</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.60429829162172</delinquency_rate>
+      <default_rate>0.4858954928313</default_rate>
+      <total_amount_raised>3884475</total_amount_raised>
+      <loans_posted>5339</loans_posted>
+      <portfolio_yield>37</portfolio_yield>
+      <profitability>6.9</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>95.4</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.8306985286557</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.micredito.com.ni/</url>
+    </partner>
+    <partner>
+      <id>106</id>
+      <name>Hattha Kaksekar Limited (HKL)</name>
+      <status>active</status>
+      <rating>4.5</rating>
+      <image>
+        <id>168135</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2008-02-14T21:40:06Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KH</iso_code>
+          <region>Asia</region>
+          <name>Cambodia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 105</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+        <country>
+          <iso_code>TH</iso_code>
+          <region>Asia</region>
+          <name>Thailand</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>15 100</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0</delinquency_rate>
+      <default_rate>0.026340491670498</default_rate>
+      <total_amount_raised>7369875</total_amount_raised>
+      <loans_posted>11458</loans_posted>
+      <portfolio_yield>20</portfolio_yield>
+      <profitability>2.9</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>143</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.hkl.com.kh</url>
+    </partner>
+    <partner>
+      <id>222</id>
+      <name>UGAFODE Microfinance</name>
+      <status>active</status>
+      <rating>3.5</rating>
+      <image>
+        <id>1107793</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2012-04-25T23:20:04Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>UG</iso_code>
+          <region>Africa</region>
+          <name>Uganda</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>2 33</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>7.1755716296462</delinquency_rate>
+      <default_rate>0.66259881004318</default_rate>
+      <total_amount_raised>4544375</total_amount_raised>
+      <loans_posted>5056</loans_posted>
+      <portfolio_yield>48</portfolio_yield>
+      <profitability>2.3</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>162</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>11.012642053726</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.1522449181681</currency_exchange_loss_rate>
+      <url>http://www.ugafode.co.ug</url>
+    </partner>
+    <partner>
+      <id>163</id>
+      <name>HOFOKAM</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>1599520</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2010-02-24T20:30:13Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>UG</iso_code>
+          <region>Africa</region>
+          <name>Uganda</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>2 33</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>5.1821521549841</delinquency_rate>
+      <default_rate>0.637704664719</default_rate>
+      <total_amount_raised>10021850</total_amount_raised>
+      <loans_posted>15379</loans_posted>
+      <portfolio_yield>48</portfolio_yield>
+      <profitability>3.5</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>66.7</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>7.722504924447</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.0082474792578</currency_exchange_loss_rate>
+    </partner>
+    <partner>
+      <id>357</id>
+      <name>Alivio Capital</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>1520193</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-08-09T07:50:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>MX</iso_code>
+          <region>North America</region>
+          <name>Mexico</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>23 -102</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>5.6422080375388</delinquency_rate>
+      <default_rate>0.28998214194602</default_rate>
+      <total_amount_raised>874425</total_amount_raised>
+      <loans_posted>1309</loans_posted>
+      <portfolio_yield>34</portfolio_yield>
+      <profitability>-2.8</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>20.003813958963</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.70840952626011</currency_exchange_loss_rate>
+      <url>http://www.aliviocapital.com</url>
+    </partner>
+    <partner>
+      <id>296</id>
+      <name>Assilassimé Solidarité</name>
+      <status>active</status>
+      <rating>1.0</rating>
+      <image>
+        <id>2439047</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2013-07-19T07:50:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>TG</iso_code>
+          <region>Africa</region>
+          <name>Togo</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>8 1.166667</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.2498174344031</delinquency_rate>
+      <default_rate>0.096005893469139</default_rate>
+      <total_amount_raised>1068850</total_amount_raised>
+      <loans_posted>5069</loans_posted>
+      <portfolio_yield>11</portfolio_yield>
+      <profitability>-0.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>2.0266737037966</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.10989568227534</currency_exchange_loss_rate>
+      <url>http://www.entrepreneursdumonde.org/nos-actions/nos-partenaires-locaux/assilassime/</url>
+    </partner>
+    <partner>
+      <id>117</id>
+      <name>VisionFund Rwanda</name>
+      <status>active</status>
+      <rating>2.5</rating>
+      <image>
+        <id>2119813</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2008-05-24T13:50:10Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>RW</iso_code>
+          <region>Africa</region>
+          <name>Rwanda</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-2 30</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>19.218259132688</delinquency_rate>
+      <default_rate>1.1986339707431</default_rate>
+      <total_amount_raised>4937275</total_amount_raised>
+      <loans_posted>3998</loans_posted>
+      <portfolio_yield>47</portfolio_yield>
+      <profitability>-9</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>99.7</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>25.868510126816</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.005696462117261</currency_exchange_loss_rate>
+      <url>http://www.visionfundrwanda.org/</url>
+    </partner>
+    <partner>
+      <id>108</id>
+      <name>UIMCEC</name>
+      <status>active</status>
+      <rating>2.0</rating>
+      <image>
+        <id>133981</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2008-02-09T04:00:10Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>SN</iso_code>
+          <region>Africa</region>
+          <name>Senegal</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>14 -14</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.11198691819591</delinquency_rate>
+      <default_rate>0.8039191024727</default_rate>
+      <total_amount_raised>3429650</total_amount_raised>
+      <loans_posted>5441</loans_posted>
+      <portfolio_yield>17</portfolio_yield>
+      <profitability>-1</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>79.1</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.6104003456305</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.62850873995889</currency_exchange_loss_rate>
+    </partner>
+    <partner>
+      <id>294</id>
+      <name>Kubo.financiero</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>2081466</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2013-05-02T20:50:01Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>MX</iso_code>
+          <region>North America</region>
+          <name>Mexico</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>23 -102</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>18.794982552688</delinquency_rate>
+      <default_rate>6.9052941384056</default_rate>
+      <total_amount_raised>773850</total_amount_raised>
+      <loans_posted>1000</loans_posted>
+      <portfolio_yield>47</portfolio_yield>
+      <profitability>-26.7</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>34.921613365805</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.0983704852362</currency_exchange_loss_rate>
+      <url>https://www.kubofinanciero.com</url>
+    </partner>
+    <partner>
+      <id>119</id>
+      <name>Asociación Arariwa</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>179389</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2008-08-31T00:40:32Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PE</iso_code>
+          <region>South America</region>
+          <name>Peru</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-10 -76</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.0907709411443</delinquency_rate>
+      <default_rate>0.044275859331006</default_rate>
+      <total_amount_raised>26593125</total_amount_raised>
+      <loans_posted>21398</loans_posted>
+      <portfolio_yield>36</portfolio_yield>
+      <profitability>2.5</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>12.8</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.9083327805652</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.0030062281134692</currency_exchange_loss_rate>
+      <url>http://arariwa-microfinanzas.org.pe</url>
+    </partner>
+    <partner>
+      <id>146</id>
+      <name>Nor Horizon</name>
+      <status>active</status>
+      <rating>2.0</rating>
+      <image>
+        <id>352308</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-08-03T03:50:06Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>AM</iso_code>
+          <region>Eastern Europe</region>
+          <name>Armenia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>40 45</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>3.2132071856799</delinquency_rate>
+      <default_rate>0.054353839851563</default_rate>
+      <total_amount_raised>5953925</total_amount_raised>
+      <loans_posted>4432</loans_posted>
+      <portfolio_yield>22</portfolio_yield>
+      <profitability>-5.1</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>44.6</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>5.6516443907667</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.71447322564527</currency_exchange_loss_rate>
+      <url>http://www.norhorizon.am/</url>
+    </partner>
+    <partner>
+      <id>15</id>
+      <name>South Pacific Business Development (SPBD) - Samoa</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>2081402</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2006-08-01T01:22:22Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>WS</iso_code>
+          <region>Oceania</region>
+          <name>Samoa</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-13.583333 -172.333333</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>2.014689004593</delinquency_rate>
+      <default_rate>0.20009047201328</default_rate>
+      <total_amount_raised>9730500</total_amount_raised>
+      <loans_posted>14250</loans_posted>
+      <portfolio_yield>47</portfolio_yield>
+      <profitability>3.9</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>10.6</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>4.3544255224393</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.016425260777966</currency_exchange_loss_rate>
+      <url>http://www.spbdmicrofinance.com/</url>
+    </partner>
+    <partner>
+      <id>465</id>
+      <name>Asociación ONG Avansar</name>
+      <status>active</status>
+      <rating>Not Rated</rating>
+      <image>
+        <id>2002829</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2016-01-05T00:10:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>CO</iso_code>
+          <region>South America</region>
+          <name>Colombia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>4 -72</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.6054143836768</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>65750</total_amount_raised>
+      <loans_posted>104</loans_posted>
+      <portfolio_yield>21</portfolio_yield>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>3.4900131382414</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+    </partner>
+    <partner>
+      <id>136</id>
+      <name>Gata Daku Multi-purpose Cooperative (GDMPC)</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>2081409</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-05-20T14:20:08Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PH</iso_code>
+          <region>Asia</region>
+          <name>Philippines</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 122</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.28039659969754</delinquency_rate>
+      <default_rate>0.0073002292271977</default_rate>
+      <total_amount_raised>5704575</total_amount_raised>
+      <loans_posted>19081</loans_posted>
+      <portfolio_yield>26</portfolio_yield>
+      <profitability>1.7</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>9.8</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0.96535141093626</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.0033592335975949</currency_exchange_loss_rate>
+      <url>https://www.facebook.com/Gata-Daku-Multi-Purpose-Cooperative-373925759380547/</url>
+    </partner>
+    <partner>
+      <id>295</id>
+      <name>PAC</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>2081489</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2013-06-21T19:50:04Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>NI</iso_code>
+          <region>Central America</region>
+          <name>Nicaragua</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 -85</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>2.3201938040461</delinquency_rate>
+      <default_rate>0.13864935502909</default_rate>
+      <total_amount_raised>384300</total_amount_raised>
+      <loans_posted>363</loans_posted>
+      <portfolio_yield>22</portfolio_yield>
+      <profitability>-15.1</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>2.3201938040461</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.10581837106427</currency_exchange_loss_rate>
+      <url>http://www.apac.org.ni/</url>
+    </partner>
+    <partner>
+      <id>80</id>
+      <name>Palestine for Credit &amp; Development (FATEN)</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>2081408</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-06-18T19:20:05Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PS</iso_code>
+          <region>Middle East</region>
+          <name>Palestine</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>31.92157 35.203285</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+        <country>
+          <iso_code>JO</iso_code>
+          <region>Middle East</region>
+          <name>Jordan</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>31 36</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.284717357018</delinquency_rate>
+      <default_rate>0.34168264349071</default_rate>
+      <total_amount_raised>14271800</total_amount_raised>
+      <loans_posted>9214</loans_posted>
+      <portfolio_yield>14</portfolio_yield>
+      <profitability>1.7</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>129.3</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>6.1339718056014</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.faten.org/</url>
+    </partner>
+    <partner>
+      <id>167</id>
+      <name>PADECOMSM</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>1853823</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2010-05-21T17:10:04Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>SV</iso_code>
+          <region>Central America</region>
+          <name>El Salvador</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13.833333 -88.916667</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>2.3282018471244</delinquency_rate>
+      <default_rate>1.7589285196516</default_rate>
+      <total_amount_raised>7602350</total_amount_raised>
+      <loans_posted>13915</loans_posted>
+      <portfolio_yield>31.9</portfolio_yield>
+      <profitability>4.3</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>32.1</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>4.2534364731947</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.padecomsmcredito.com.sv</url>
+    </partner>
+    <partner>
+      <id>201</id>
+      <name>Organizacion de Desarrollo Empresarial Femenino (ODEF)</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>847123</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2011-10-09T01:10:05Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>HN</iso_code>
+          <region>Central America</region>
+          <name>Honduras</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>15 -86.5</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.3658968163188</delinquency_rate>
+      <default_rate>0.61126989659579</default_rate>
+      <total_amount_raised>3059400</total_amount_raised>
+      <loans_posted>4313</loans_posted>
+      <portfolio_yield>34</portfolio_yield>
+      <profitability>2.8</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>71.5</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>2.4075099289797</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.079765640321632</currency_exchange_loss_rate>
+      <url>http://www.odeffinancierasa.org.hn</url>
+    </partner>
+    <partner>
+      <id>125</id>
+      <name>Community Economic Ventures, Inc. (CEVI)</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>663594</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2008-11-19T16:10:39Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PH</iso_code>
+          <region>Asia</region>
+          <name>Philippines</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 122</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>3.8367921898276</delinquency_rate>
+      <default_rate>0.22293476147265</default_rate>
+      <total_amount_raised>7060225</total_amount_raised>
+      <loans_posted>26432</loans_posted>
+      <portfolio_yield>56</portfolio_yield>
+      <profitability>2.6</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>6.2</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>4.9689279834816</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.00013115729314576</currency_exchange_loss_rate>
+    </partner>
+    <partner>
+      <id>188</id>
+      <name>VisionFund Ecuador</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>2264055</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2011-04-28T20:20:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>EC</iso_code>
+          <region>South America</region>
+          <name>Ecuador</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-2 -77.5</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.3802041827486</delinquency_rate>
+      <default_rate>0.66920786182251</default_rate>
+      <total_amount_raised>4897100</total_amount_raised>
+      <loans_posted>5071</loans_posted>
+      <portfolio_yield>22</portfolio_yield>
+      <profitability>1.9</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>13.4</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.7161158284738</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.visionfund.org/2109/ecuador/latin-america/where/</url>
+    </partner>
+    <partner>
+      <id>384</id>
+      <name>Kingsbridge Microfinance</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>1591179</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-06-05T16:10:06Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>GH</iso_code>
+          <region>Africa</region>
+          <name>Ghana</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>8 -2</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>9.4916947148045</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>168350</total_amount_raised>
+      <loans_posted>152</loans_posted>
+      <portfolio_yield>30</portfolio_yield>
+      <profitability>-1.5</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>20.944179790647</loans_at_risk_rate>
+      <currency_exchange_loss_rate>2.4726046926047</currency_exchange_loss_rate>
+      <url>http://kingsbridgemicrofinance.com/</url>
+    </partner>
+    <partner>
+      <id>275</id>
+      <name>ERES Energía Renovable</name>
+      <status>active</status>
+      <rating>Not Rated</rating>
+      <image>
+        <id>2081457</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2012-12-20T20:00:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>MX</iso_code>
+          <region>North America</region>
+          <name>Mexico</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>23 -102</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>18.650321004473</delinquency_rate>
+      <default_rate>4.7659315206445</default_rate>
+      <total_amount_raised>174900</total_amount_raised>
+      <loans_posted>580</loans_posted>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>43.864042099416</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.1059348198971</currency_exchange_loss_rate>
+      <url>http://ilumexico.mx/es</url>
+    </partner>
+    <partner>
+      <id>416</id>
+      <name>Proximity Designs</name>
+      <status>active</status>
+      <rating>2.5</rating>
+      <image>
+        <id>1647517</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-07-31T17:30:28Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>MM</iso_code>
+          <region>Asia</region>
+          <name>Myanmar (Burma)</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>22 98</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>2693575</total_amount_raised>
+      <loans_posted>1451</loans_posted>
+      <portfolio_yield>24</portfolio_yield>
+      <profitability>12.3</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.8075383087532</currency_exchange_loss_rate>
+      <url>http://www.proximitydesigns.org/</url>
+    </partner>
+    <partner>
+      <id>148</id>
+      <name>Association for Rural Development (ARD)</name>
+      <status>active</status>
+      <rating>1.0</rating>
+      <image>
+        <id>400542</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-09-30T18:20:23Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>SL</iso_code>
+          <region>Africa</region>
+          <name>Sierra Leone</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>8.5 -11.5</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>48.061205881168</delinquency_rate>
+      <default_rate>4.7267368109617</default_rate>
+      <total_amount_raised>4526175</total_amount_raised>
+      <loans_posted>5090</loans_posted>
+      <portfolio_yield>48</portfolio_yield>
+      <profitability>5</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>35.84</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>52.207395119596</loans_at_risk_rate>
+      <currency_exchange_loss_rate>2.3808624279883</currency_exchange_loss_rate>
+    </partner>
+    <partner>
+      <id>386</id>
+      <name>Kenya ECLOF</name>
+      <status>active</status>
+      <rating>2.0</rating>
+      <image>
+        <id>1592272</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-05-29T13:30:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KE</iso_code>
+          <region>Africa</region>
+          <name>Kenya</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>1 38</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>4.4483562024232</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>977800</total_amount_raised>
+      <loans_posted>2234</loans_posted>
+      <portfolio_yield>40</portfolio_yield>
+      <profitability>2.5</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>8.1437668492109</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.11070975659644</currency_exchange_loss_rate>
+      <url>http://www.eclof-kenya.org/</url>
+    </partner>
+    <partner>
+      <id>120</id>
+      <name>Asociación Alternativa Para el Desarrollo Integral de las Mujeres (ADIM)</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>2081403</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2008-10-01T20:50:41Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>NI</iso_code>
+          <region>Central America</region>
+          <name>Nicaragua</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 -85</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>2.2455423068158</delinquency_rate>
+      <default_rate>0.22160036208337</default_rate>
+      <total_amount_raised>4773350</total_amount_raised>
+      <loans_posted>5346</loans_posted>
+      <portfolio_yield>57</portfolio_yield>
+      <profitability>8.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>14.2</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>2.9243963993738</loans_at_risk_rate>
+      <currency_exchange_loss_rate>7.311426985241E-5</currency_exchange_loss_rate>
+      <url>http://www.adim.org.ni</url>
+    </partner>
+    <partner>
+      <id>58</id>
+      <name>Fundación Paraguaya</name>
+      <status>active</status>
+      <rating>4.5</rating>
+      <image>
+        <id>2095094</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2007-05-23T18:53:44Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PY</iso_code>
+          <region>South America</region>
+          <name>Paraguay</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-22.993333 -57.996389</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>3.3281814028089</delinquency_rate>
+      <default_rate>0.3356441114319</default_rate>
+      <total_amount_raised>47800450</total_amount_raised>
+      <loans_posted>22365</loans_posted>
+      <portfolio_yield>41</portfolio_yield>
+      <profitability>3.3</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>11.3</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>4.1950751807037</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.11064125965341</currency_exchange_loss_rate>
+      <url>http://www.fundacionparaguaya.org.py</url>
+    </partner>
+    <partner>
+      <id>198</id>
+      <name>Maya</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>2081426</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2011-08-12T23:40:04Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>TR</iso_code>
+          <region>Middle East</region>
+          <name>Turkey</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>39 35</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0</delinquency_rate>
+      <default_rate>0.089001226217317</default_rate>
+      <total_amount_raised>732250</total_amount_raised>
+      <loans_posted>1693</loans_posted>
+      <portfolio_yield>14.7</portfolio_yield>
+      <profitability>-9.17</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note>Maya's delinquency rate often appears higher than the average for Kiva Field Partners. However, this is not because the organization is experiencing an unusually high number of borrowers behind on repayment. To lower the costs of transferring funds, Kiva allows its partners to wait until repayments exceed $5,000 to repay. For small institutions like Maya that have a low outstanding balance with Kiva, this delay sometimes results in higher delinquency rates.</default_rate_note>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>5.2</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.3993472174804</currency_exchange_loss_rate>
+      <url>http://www.kedv.org.tr/index.php?page=english</url>
+    </partner>
+    <partner>
+      <id>161</id>
+      <name>Urwego Opportunity Bank</name>
+      <status>active</status>
+      <rating>2.5</rating>
+      <image>
+        <id>1920621</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2010-06-11T05:20:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>RW</iso_code>
+          <region>Africa</region>
+          <name>Rwanda</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-2 30</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>7.9382251021574</delinquency_rate>
+      <default_rate>0.41342754157764</default_rate>
+      <total_amount_raised>15444950</total_amount_raised>
+      <loans_posted>9507</loans_posted>
+      <portfolio_yield>32</portfolio_yield>
+      <profitability>-0.3</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>57</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>18.081486659062</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.022218783485864</currency_exchange_loss_rate>
+      <url>http://urwegobank.com</url>
+    </partner>
+    <partner>
+      <id>177</id>
+      <name>Interactuar</name>
+      <status>active</status>
+      <rating>3.5</rating>
+      <image>
+        <id>2081423</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2010-12-16T21:50:11Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>CO</iso_code>
+          <region>South America</region>
+          <name>Colombia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>4 -72</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>4.1277827509892</delinquency_rate>
+      <default_rate>6.205101565358</default_rate>
+      <total_amount_raised>11535550</total_amount_raised>
+      <loans_posted>18929</loans_posted>
+      <portfolio_yield>33</portfolio_yield>
+      <profitability>5.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>24.9</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>4.1608189777289</loans_at_risk_rate>
+      <currency_exchange_loss_rate>4.0958290675347</currency_exchange_loss_rate>
+      <url>http://www.interactuar.org.co/</url>
+    </partner>
+    <partner>
+      <id>217</id>
+      <name>ACEP Cameroun</name>
+      <status>active</status>
+      <rating>2.5</rating>
+      <image>
+        <id>1011604</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2012-03-30T02:40:05Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>CM</iso_code>
+          <region>Africa</region>
+          <name>Cameroon</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>6 12</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>4.0220751721476</delinquency_rate>
+      <default_rate>2.7731254029658</default_rate>
+      <total_amount_raised>1033025</total_amount_raised>
+      <loans_posted>2734</loans_posted>
+      <portfolio_yield>26</portfolio_yield>
+      <profitability>3.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>210.1</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>6.4445368848424</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.35060526124731</currency_exchange_loss_rate>
+      <url>http://www.acep-cameroun.org</url>
+    </partner>
+    <partner>
+      <id>48</id>
+      <name>IMPRO</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>2081392</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2007-03-26T06:25:30Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>BO</iso_code>
+          <region>South America</region>
+          <name>Bolivia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-17 -65</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.97760432677172</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>4744125</total_amount_raised>
+      <loans_posted>6442</loans_posted>
+      <portfolio_yield>17</portfolio_yield>
+      <profitability>0.1</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>51.6</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>2.2981199330906</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.improbolivia.org</url>
+    </partner>
+    <partner>
+      <id>406</id>
+      <name>KSPPS Benteng Mikro Indonesia</name>
+      <status>active</status>
+      <rating>2.5</rating>
+      <image>
+        <id>2121325</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-08-17T23:40:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>ID</iso_code>
+          <region>Asia</region>
+          <name>Indonesia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-5 120</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.30938800686895</delinquency_rate>
+      <default_rate>4.085636716225</default_rate>
+      <total_amount_raised>937850</total_amount_raised>
+      <loans_posted>2132</loans_posted>
+      <portfolio_yield>38</portfolio_yield>
+      <profitability>3</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.6998167595849</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.036370421709229</currency_exchange_loss_rate>
+      <url>http://www.kpp-umkm.org</url>
+    </partner>
+    <partner>
+        <id>394</id>
+      <name>Quang Binh Women Development Fund</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>1606036</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-06-10T17:00:13Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>VN</iso_code>
+          <region>Asia</region>
+          <name>Vietnam</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>16.166667 107.833333</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>924150</total_amount_raised>
+      <loans_posted>1634</loans_posted>
+      <portfolio_yield>14.8</portfolio_yield>
+      <profitability>4.14</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      </partner>
+    <partner>
+      <id>484</id>
+      <name>Cooperativa de Ahorro y Crédito Norandino</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>2269408</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2016-08-08T22:30:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PE</iso_code>
+          <region>South America</region>
+          <name>Peru</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-10 -76</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>541125</total_amount_raised>
+      <loans_posted>600</loans_posted>
+      <portfolio_yield>20.6</portfolio_yield>
+      <profitability>0.2</profitability>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.coopacnorandino.com</url>
+    </partner>
+    <partner>
+      <id>205</id>
+      <name>Al-Amal Microfinance Bank</name>
+      <status>active</status>
+      <rating>2.0</rating>
+      <image>
+        <id>1282382</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2011-11-02T07:30:05Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>YE</iso_code>
+          <region>Middle East</region>
+          <name>Yemen</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>15.5 47.5</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>34.930041761757</delinquency_rate>
+      <default_rate>7.7416578544594</default_rate>
+      <total_amount_raised>3129000</total_amount_raised>
+      <loans_posted>4533</loans_posted>
+      <portfolio_yield>21</portfolio_yield>
+      <profitability>4.4</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>16.5</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>39.288658808809</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.11507478427613</currency_exchange_loss_rate>
+      <url>http://www.alamalbank.com</url>
+    </partner>
+    <partner>
+      <id>245</id>
+      <name>Kashf Foundation</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>1106861</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2012-07-09T17:30:05Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PK</iso_code>
+          <region>Asia</region>
+          <name>Pakistan</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>30 70</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.0897111443865</delinquency_rate>
+      <default_rate>0.064239594327934</default_rate>
+      <total_amount_raised>6143850</total_amount_raised>
+      <loans_posted>14126</loans_posted>
+      <portfolio_yield>42</portfolio_yield>
+      <profitability>10.4</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>9.2</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.5170940085875</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.0049980061362175</currency_exchange_loss_rate>
+      <url>http://www.kashf.org</url>
+    </partner>
+    <partner>
+      <id>311</id>
+      <name>iDE Cambodia</name>
+      <status>active</status>
+      <rating>2.0</rating>
+      <image>
+        <id>2081481</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-02-04T23:20:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KH</iso_code>
+          <region>Asia</region>
+          <name>Cambodia</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 105</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>5.9176659567492</delinquency_rate>
+      <default_rate>0.21529835935433</default_rate>
+      <total_amount_raised>2437775</total_amount_raised>
+      <loans_posted>15376</loans_posted>
+      <portfolio_yield>0</portfolio_yield>
+      <profitability>4</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>9.4782429931559</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+    </partner>
+    <partner>
+      <id>395</id>
+      <name>Solar and Energy Loan Fund (SELF)</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>1607421</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-07-15T06:20:01Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>US</iso_code>
+          <region>North America</region>
+          <name>United States</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>39.76 -98.5</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.076158318159289</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>445925</total_amount_raised>
+      <loans_posted>72</loans_posted>
+      <portfolio_yield>11</portfolio_yield>
+      <profitability>-14.9</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>1.6964974965281</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.solarenergyloanfund.org</url>
+    </partner>
+    <partner>
+      <id>87</id>
+      <name>Tujijenge Tanzania</name>
+      <status>active</status>
+      <rating>2.5</rating>
+      <image>
+        <id>2081400</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2007-11-07T21:20:04Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>TZ</iso_code>
+          <region>Africa</region>
+          <name>Tanzania</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-6 35</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>12.456201686044</delinquency_rate>
+      <default_rate>0.79195932533103</default_rate>
+      <total_amount_raised>12234525</total_amount_raised>
+      <loans_posted>6567</loans_posted>
+      <portfolio_yield>52</portfolio_yield>
+      <profitability>-1.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>24.523355858076</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.35742662669781</currency_exchange_loss_rate>
+      <url>http://www.tujijengeafrika.org/</url>
+    </partner>
+    <partner>
+      <id>329</id>
+      <name>Impact Carbon</name>
+      <status>active</status>
+      <rating>1.5</rating>
+      <image>
+        <id>2081503</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2013-09-26T06:00:01Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>UG</iso_code>
+          <region>Africa</region>
+          <name>Uganda</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>2 33</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>18.239583520955</delinquency_rate>
+      <default_rate>5.2376412017167</default_rate>
+      <total_amount_raised>1380700</total_amount_raised>
+      <loans_posted>1118</loans_posted>
+      <profitability>56.9</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>39.665723029851</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.3169095386398</currency_exchange_loss_rate>
+      <url>http://impactcarbon.org/</url>
+    </partner>
+    <partner>
+      <id>63</id>
+      <name>Humo</name>
+      <status>active</status>
+      <rating>4.0</rating>
+      <image>
+        <id>2515278</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2007-06-05T21:23:50Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>TJ</iso_code>
+          <region>Asia</region>
+          <name>Tajikistan</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>39 71</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.6143323959575</delinquency_rate>
+      <default_rate>0.50206687050788</default_rate>
+      <total_amount_raised>11705650</total_amount_raised>
+      <loans_posted>13919</loans_posted>
+      <portfolio_yield>37</portfolio_yield>
+      <profitability>-2.4</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>72.1</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>2.0052118963387</loans_at_risk_rate>
+      <currency_exchange_loss_rate>1.1664239064042</currency_exchange_loss_rate>
+      <url>http://mdohumo.tj/en/</url>
+    </partner>
+    <partner>
+      <id>138</id>
+      <name>SMEP Microfinance Bank</name>
+      <status>active</status>
+      <rating>3.5</rating>
+      <image>
+        <id>328197</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-07-19T04:50:04Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KE</iso_code>
+          <region>Africa</region>
+          <name>Kenya</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>1 38</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>10.808894341121</delinquency_rate>
+      <default_rate>1.4229202586718</default_rate>
+      <total_amount_raised>6921275</total_amount_raised>
+      <loans_posted>17579</loans_posted>
+      <portfolio_yield>29</portfolio_yield>
+      <profitability>0</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>40.1</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>15.279005897043</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.20992129340331</currency_exchange_loss_rate>
+      <url>http://www.smep.co.ke/index.php</url>
+    </partner>
+    <partner>
+      <id>243</id>
+      <name>Kaebauk Investimentu no Finansas</name>
+      <status>active</status>
+      <rating>3.5</rating>
+      <image>
+        <id>2224737</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2012-05-30T15:00:16Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>TL</iso_code>
+          <region>Oceania</region>
+          <name>Timor-Leste</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-8.833333 125.75</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.7431345408236</delinquency_rate>
+      <default_rate>0.40715991551475</default_rate>
+      <total_amount_raised>2912400</total_amount_raised>
+      <loans_posted>3257</loans_posted>
+      <portfolio_yield>31</portfolio_yield>
+      <profitability>4.8</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>11</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>4.6947566686987</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.kaebauk.tl/en/about-us</url>
+    </partner>
+    <partner>
+      <id>164</id>
+      <name>Yehu Microfinance Trust</name>
+      <status>active</status>
+      <rating>3.5</rating>
+      <image>
+        <id>2081417</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2010-03-30T20:50:03Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KE</iso_code>
+          <region>Africa</region>
+          <name>Kenya</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>1 38</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0</delinquency_rate>
+      <default_rate>0.083560983310133</default_rate>
+      <total_amount_raised>7709875</total_amount_raised>
+      <loans_posted>21608</loans_posted>
+      <portfolio_yield>33.1</portfolio_yield>
+      <profitability>2.23</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>24.3</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.16342002950761</currency_exchange_loss_rate>
+      <url>http://www.yehu.org</url>
+    </partner>
+    <partner>
+      <id>443</id>
+      <name>Crédit Epargne Formation (CEFOR)</name>
+      <status>active</status>
+      <rating>1.0</rating>
+      <image>
+        <id>1754972</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2015-02-09T12:50:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>MG</iso_code>
+          <region>Africa</region>
+          <name>Madagascar</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-20 47</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.9317887351682</delinquency_rate>
+      <default_rate>0.1412762199161</default_rate>
+      <total_amount_raised>637750</total_amount_raised>
+      <loans_posted>2054</loans_posted>
+      <portfolio_yield>64</portfolio_yield>
+      <profitability>2.3</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>3.0140710125784</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.055297530380243</currency_exchange_loss_rate>
+      <url>http://www.cefor.mg</url>
+    </partner>
+    <partner>
+      <id>137</id>
+      <name>Fundación ESPOIR</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>2551575</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2009-06-28T20:00:05Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>EC</iso_code>
+          <region>South America</region>
+          <name>Ecuador</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-2 -77.5</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.91381962323282</delinquency_rate>
+      <default_rate>0.10271532393002</default_rate>
+      <total_amount_raised>15034300</total_amount_raised>
+      <loans_posted>11968</loans_posted>
+      <portfolio_yield>30</portfolio_yield>
+      <profitability>1.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>14</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0.91381962323282</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0</currency_exchange_loss_rate>
+      <url>http://www.espoir.org.ec</url>
+    </partner>
+    <partner>
+      <id>65</id>
+      <name>BRAC Uganda</name>
+      <status>active</status>
+      <rating>4.5</rating>
+      <image>
+        <id>2081425</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2007-12-22T21:17:06Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>UG</iso_code>
+          <region>Africa</region>
+          <name>Uganda</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>2 33</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.4542441469516</delinquency_rate>
+      <default_rate>0.12419333914872</default_rate>
+      <total_amount_raised>5805500</total_amount_raised>
+      <loans_posted>7574</loans_posted>
+      <portfolio_yield>53</portfolio_yield>
+      <profitability>15.2</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>31</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>2.6926195369188</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.6047182843855</currency_exchange_loss_rate>
+      <url>http://www.brac.net</url>
+    </partner>
+    <partner>
+      <id>156</id>
+      <name>Juhudi Kilimo</name>
+      <status>active</status>
+      <rating>2.0</rating>
+      <image>
+        <id>1834079</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2010-01-15T20:20:17Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>KE</iso_code>
+          <region>Africa</region>
+          <name>Kenya</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>1 38</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>1.3756667587539</delinquency_rate>
+      <default_rate>2.4684998606435</default_rate>
+      <total_amount_raised>7983050</total_amount_raised>
+      <loans_posted>19157</loans_posted>
+      <portfolio_yield>33</portfolio_yield>
+      <profitability>-7.1</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>49.6</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>6.6223219141864</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.41761920569206</currency_exchange_loss_rate>
+      <url>http://www.juhudikilimo.com/</url>
+    </partner>
+    <partner>
+      <id>359</id>
+      <name>Vahatra</name>
+      <status>active</status>
+      <rating>1.0</rating>
+      <image>
+        <id>1523543</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2015-03-02T15:20:07Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>MG</iso_code>
+          <region>Africa</region>
+          <name>Madagascar</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-20 47</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>2.0670122828633</delinquency_rate>
+      <default_rate>0.063140466441161</default_rate>
+      <total_amount_raised>500050</total_amount_raised>
+      <loans_posted>1605</loans_posted>
+      <portfolio_yield>51</portfolio_yield>
+      <profitability>0.5</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>2</id>
+          <name>Vulnerable Group Focus</name>
+          <description>These Field Partners provide financial services to people from especially vulnerable and socially marginalized populations and groups.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>6.1175155554507</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.087965203479652</currency_exchange_loss_rate>
+    </partner>
+    <partner>
+      <id>435</id>
+      <name>Fondesurco</name>
+      <status>active</status>
+      <rating>3.5</rating>
+      <image>
+        <id>1718386</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2014-12-11T00:10:02Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PE</iso_code>
+          <region>South America</region>
+          <name>Peru</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>-10 -76</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0.31455333573709</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>327875</total_amount_raised>
+      <loans_posted>460</loans_posted>
+      <portfolio_yield>29</portfolio_yield>
+      <profitability>0.1</profitability>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>0</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0.79319719655438</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.0097506671749905</currency_exchange_loss_rate>
+      <url>http://www.fondesurco.org.pe</url>
+    </partner>
+    <partner>
+      <id>126</id>
+      <name>Paglaum Multi-Purpose Cooperative (PMPC)</name>
+      <status>active</status>
+      <rating>3.0</rating>
+      <image>
+        <id>1266199</id>
+        <template_id>1</template_id>
+      </image>
+      <start_date>2008-11-21T09:57:59Z</start_date>
+      <countries type="list">
+        <country>
+          <iso_code>PH</iso_code>
+          <region>Asia</region>
+          <name>Philippines</name>
+          <location>
+            <geo>
+              <level>country</level>
+              <pairs>13 122</pairs>
+              <type>point</type>
+            </geo>
+          </location>
+        </country>
+      </countries>
+      <delinquency_rate>0</delinquency_rate>
+      <default_rate>0</default_rate>
+      <total_amount_raised>8631700</total_amount_raised>
+      <loans_posted>24233</loans_posted>
+      <portfolio_yield>27.1</portfolio_yield>
+      <profitability>0.83</profitability>
+      <social_performance_strengths type="list">
+        <social_performance_strength>
+          <id>1</id>
+          <name>Anti-Poverty Focus</name>
+          <description>The work of most microfinance institutions helps to combat poverty, but these Field Partners do even more.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>3</id>
+          <name>Client Voice</name>
+          <description>These Field Partners use feedback from the people they serve and adapt their business practices and product offerings to meet their needs.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>4</id>
+          <name>Family and Community Empowerment</name>
+          <description>These Field Partners offer support services that address the needs of their clients’ families: their health, education, and/or well-being.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>5</id>
+          <name>Entrepreneurial Support</name>
+          <description>These Field Partners offer training and support to help people start, manage and grow their businesses.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>6</id>
+          <name>Facilitation of Savings</name>
+          <description>These Field Partners specifically promote savings as a practice to the people they serve.</description>
+        </social_performance_strength>
+        <social_performance_strength>
+          <id>7</id>
+          <name>Innovation</name>
+          <description>These Field Partners embrace technology and innovation to better address the needs of the people they serve.</description>
+        </social_performance_strength>
+      </social_performance_strengths>
+      <delinquency_rate_note/>
+      <default_rate_note/>
+      <portfolio_yield_note/>
+      <charges_fees_and_interest>1</charges_fees_and_interest>
+      <average_loan_size_percent_per_capita_income>12.2</average_loan_size_percent_per_capita_income>
+      <loans_at_risk_rate>0</loans_at_risk_rate>
+      <currency_exchange_loss_rate>0.0094127460407567</currency_exchange_loss_rate>
+      <url>http://www.paglaum.coop/</url>
+    </partner>
+  </partners>
+</response>
