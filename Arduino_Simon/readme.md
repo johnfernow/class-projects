@@ -5,7 +5,7 @@
 to remember patterns. It plays a pattern by lighting up and making a sound, and
 then the user has to repeat that pattern by pressing the corresponding buttons.
 If a user correctly enters it, they'll be given a new, more challenging pattern.
-[More information available here](https://en.wikipedia.org/wiki/Simon_(game).  
+[More information available here](https://en.wikipedia.org/wiki/Simon_(game)).  
 
 ## Our Implementation
 I, along with a friend, recreated this using an Arduino, LEDs, buttons, and a
